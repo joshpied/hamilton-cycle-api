@@ -1,0 +1,711 @@
+﻿X,Y,OBJECTID,LOCATION_NAME,ADDRESS,RACK_OWNER,RACKS_INSTALLED,RACK_TYPE,TOTAL_CAPACITY,COVERED,NEARBY_LIGHTING,WARD,EXTERNAL,LATITUDE,LONGITUDE
+587672.2753,4790328.3093,1,McMaster University - John Hodgins Engineering Building - SE ,,Private ,1,Multi-Ring,48,No,Yes,1,Yes,43.26066532,-79.91980332
+587671.997,4790370.7,2,McMaster University - John Hodgins Engineering Building - NE Corner,,School,1,Multi-Ring,56,No,Yes,1,Yes,43.261047,-79.9198
+587710.0969,4790177.4547,6,McMaster University - Communications Research Laboratory - North,,School,1,Multi-Ring,8,No,No,1,Yes,43.25930276,-79.91936143
+597313.2088,4775051.4681,9,Hamilton Public Library - Binbrook Branch,"2641 Hamilton Regional Rd 56, Binbrook",Municipal,1,Hammer Hoop,6,No,Yes,11,Yes,43.12194747,-79.80373259
+594530.8425,4775809.0004,10,Binbrook,"4280 Binbrook Rd, Binbrook",Municipal,1,Multi-Ring,8,,,11,Yes,43.12912,-79.8378
+584833.4493,4790810.3354,11,Hamilton Public Library: Dundas Branch,"18 Ogilvie Street, Dundas",Municipal,1,Multi-Ring,8,No,Yes,13,Yes,43.26533,-79.9547
+588992.0446,4790576.2418,12,Hamilton Public Library (Westdale Branch),"955 King St W, Hamilton",Municipal,1,Hammer Hoop,8,No,Yes,1,Yes,43.26274277,-79.90350548
+592452.878,4789812.1414,15,Goodwill Career Centre,"King William and Ferguson
+225 King William St",Private ,1,Multi-Ring,6,No,Yes,2,Yes,43.255447,-79.861
+592311.5543,4789781.5938,16,Social Planning and Research Council of Hamilton ,Walnut and King William,Private ,1,Multi-Ring,6,No,Yes,2,Yes,43.2551893,-79.86274586
+592159.4683,4789547.3563,17,"Anthony Markowski, Practice of Dentistry","Main and Walnut
+134 Jackson St E",Private ,1,Hammer Hoop,2,No,Yes,2,Yes,43.25309909,-79.86465834
+592781.2339,4790067.837,20,Shoppers Drug Mart,"232 Cannon Street East, Cannon and Wellington",Private ,1,Multi-Ring,4,No,Yes,3,Yes,43.25770865,-79.85691245
+596241.5656,4789490.2651,21,Walmart,Ottawa and Barton St E,Private,1,Multi-Ring,8,No,Yes,4,Yes,43.252075,-79.81439
+595421.1621,4788577.0397,23,Pizza Pizza,King E and Belmont,Private ,1,Multi-Ring,6,No,Yes,3,Yes,43.24395771,-79.82465265
+595871.3509,4788660.2955,24,Tim Hortons,Ottawa and Dunsmere,Private ,1,Hammer Hoop,6,No,Yes,3,Yes,43.24465014,-79.81909414
+592701.73,4789432.0321,25,Canadian Tire,304 Main Street East,Private,1,Multi-Ring,6,No,Yes,3,Yes,43.25199435,-79.85799875
+593204.972,4789257.4994,26,Apartment,460 main e,Private,1,Multi-Ring,8,No,Yes,3,Yes,43.250361,-79.85183
+593365.9569,4789281.7462,27,Tim Hortons,503 Main Street East,Private,1,Multi-Ring,6,No,Yes,3,Yes,43.25055937,-79.84984315
+594377.8874,4788872.2791,28,Big Bee Food Mart and Subway,810 Main Street East,Private ,1,Multi-Ring,10,No,No,3,Yes,43.246747,-79.83745
+594964.4152,4788690.1186,29,Connaught Fish & Chips,976 Main Street East,Private ,1,Multi-Ring,6,No,Yes,3,Yes,43.2450334,-79.83025799
+594978.7134,4788701.1601,30,Gage Market,961 Main Street East,Private ,1,Multi-Ring,6,No,Yes,3,Yes,43.245131,-79.83008
+595343.3188,4788649.8861,32,McDonald's,1268 King Street East,Private ,1,Multi-Ring,8,No,Yes,3,Yes,43.24462338,-79.82559869
+594606.372,4784884.1744,33,Tim Hortons,969 Upper Ottawa Street,Private ,1,Multi-Ring,6,No,Yes,6,Yes,43.210814,-79.83532
+591938.5905,4790426.3193,34,History and Heritage,165 James Street North,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.2610393,-79.86723219
+591982.5678,4790570.9357,35,Five Star Cafe‚,225 James Street North,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.2623359,-79.8666663
+592276.192,4789849.8347,37,Across from Hamilton Police Headquarters,140 King William Street,ROW,1,Advertising Rack,4,No,Yes,2,Yes,43.255808,-79.86317
+591880.3376,4790016.3577,38,Opposite Lister Annex,25 King William St,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25735555,-79.86801816
+591892.8666,4790020.4516,39,Rust City Brewery,23 King William Street,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25739088,-79.86786315
+591849.3912,4790029.4516,40,Opposite Wendel Clark's Classic Bar and Grill,28 James St N,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25747721,-79.86839717
+591889.0638,4789907.494,41,Tim Hortons,"35 King St E, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.2563744,-79.86792883
+591919.3367,4789894.7122,42,LiUNA Tower,"53 King St E, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25625563,-79.86755808
+591980.1868,4789866.8168,43,Super Convenience,"73 King St E, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25599707,-79.86681321
+592024.6705,4789848.8399,44,Coffee Culture,"89 King St E, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25582979,-79.86626828
+592371.6878,4789700.4695,45,Skyway Cigar Store,"243 King St E, Hamilton",ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25445158,-79.86201878
+592394.3749,4789708.3262,46,Tsunami Bikes,"245 King Street East, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25451953,-79.86173802
+592469.9073,4789657.948,47,Zoran Designs Jewellery,"285 King Street East, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25405672,-79.86081612
+592576.111,4789613.2505,48,Salvation Army,"333 King St E, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25364128,-79.85951551
+592549.5743,4789612.0491,49,Groom for Men,"316 King St E, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25363372,-79.85984257
+592528.5059,4789624.3442,50,Caf‚ Oranje,"312 King Street East, Hamilton",ROW,1,Advertising Rack,4,No,Yes,2,Yes,43.253747,-79.8601
+592483.6292,4789640.727,51,Denninger's Foods of the World,"284 King St E, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.2539,-79.86065
+592017.9264,4789826.2085,52,,"92 King Street East, Hamilton",ROW,1,Hammer Hoop,2,No,,2,Yes,43.25562687,-79.86635513
+592222.5569,4789761.5757,53,Bent Hair,"177 King Street East, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25501998,-79.86384542
+592273.3675,4789738.1348,54,The Letter Box,"201 King Street East, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25480272,-79.8632235
+592368.316,4789682.4733,55,Ferguson Station,"244 King Street East, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25428998,-79.86206332
+592373.5841,4789648.9744,56,Ferguson Station,"244 King Street East, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25398774,-79.86200405
+592294.6895,4789623.9372,57,Dollorama,"171 Main Street East, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.253772,-79.86298
+592283.4113,4789627.7257,58,Dollorama,"171 Main Street East, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25380749,-79.86311828
+592023.5778,4789696.4039,59,Sapporo Plaza,"96 Main Street East, Hamilton",ROW,1,Multi-Ring,5,No,Yes,2,Yes,43.25445756,-79.8663072
+591941.998,4789727.1353,60,Provincial Offences Office,"50 Main Street East, Hamilton",ROW,1,Multi-Ring,5,No,Yes,2,Yes,43.25474419,-79.86730691
+591665.1535,4789830.3864,61,New Vision United Church ,"24 Main Street West, Hamilton",ROW,1,Hammer Hoop,8,No,Yes,2,Yes,43.25570747,-79.87069971
+591754.5196,4790213.4903,62,Parking garage,"28 York Blvd, Hamilton",ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25914565,-79.86953513
+591740.4919,4790227.4719,63,Coppley Noyes & Randall Wholesale Clothing - ,"56 York Blvd, Hamilton",ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25927323,-79.8697056
+591728.8701,4790222.1076,64,Coppley Noyes & Randall Wholesale Clothing - ,"56 York Blvd, Hamilton",ROW,1,Hammer Hoop,6,No,Yes,2,Yes,43.25922635,-79.86984965
+591511.1079,4790294.881,65,7 Eleven,"114 York Boulevard, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.259908,-79.87252
+591199.5746,4790521.833,66,Allegra,"255 York Blvd, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.261989,-79.87632
+591573.2669,4790260.6199,67,First Ontario Centre,"101 York Boulevard, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.259592,-79.87176
+591536.9567,4790287.2337,68,Salvation Army,"101 York Boulevard, Hamilton",ROW,1,Hammer Hoop,10,No,Yes,2,Yes,43.25983601,-79.87220286
+585159.61,4790051.5759,69,Dundana Elementary,23 Dundana Avenue,School,1,Multi-Ring,18,No,Yes,13,Yes,43.25846197,-79.9507991
+592021.8726,4789925.1334,71,Downtown Bike Hounds Corral,21 John Street North,ROW,1,Bike Corral,10,No,Yes,2,Yes,43.256517,-79.86629
+591950.0502,4789659.1994,74,Mayday Payday Loans/Hammer Town Subs,61 John St S,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25413158,-79.86721907
+593136.2679,4790417.9627,76,1-876 Bar and Grill,"306 Barton Street East, Hamilton",ROW,1,Hammer Hoop,4,No,Yes,3,Yes,43.260817,-79.85248
+593559.7758,4790259.2862,77,,"414 Barton St E, Hamilton",ROW,1,Hammer Hoop,4,No,Yes,3,Yes,43.259336,-79.84729
+591529.102,4790525.6042,78,Tim Hortons,133 Bay Street North,ROW,1,Advertising Rack,4,No,Yes,2,Yes,43.261983,-79.87226
+592071.5159,4790356.8229,79,Giant Tiger,33 Cannon St E,ROW,1,Advertising Rack,4,No,Yes,2,Yes,43.2603974,-79.86560636
+593235.7455,4790386.0062,80,Tiger Group Studio Gallery,"335 Barton E, Hamilton",ROW,1,Advertising Rack,4,No,Yes,3,Yes,43.260517,-79.85126
+593271.8303,4790362.8474,81,Corner of Emerald and Barton,256 Emerald Street North,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.26030404,-79.85081942
+594034.1828,4790119.8905,82,Hamilton Public Library  ,"571 Barton St E, Hamilton",ROW,1,Hammer Hoop,4,No,Yes,3,Yes,43.258022,-79.84147
+594059.645,4790108.1389,83,Hamilton Public Library - Barton Branch,"571 Barton St E, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.25791303,-79.84115837
+594060.1891,4790110.0369,84,Hamilton Public Library - Barton Branch,"571 Barton St E, Hamilton",Municipal,1,Multi-Ring,8,No,Yes,3,Yes,43.25793004,-79.84115134
+593986.114,4790132.2204,85,Hamilton School of Careers,"553 Barton St E, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.258139,-79.84206
+594486.6468,4790026.4837,86,Playhouse,177 Sherman Avenue North,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.25712449,-79.83591265
+594694.7537,4789892.8254,87,Municipal Car Park 47,"735 Barton Street East, Hamilton",ROW,1,Advertising Rack,4,No,Yes,3,Yes,43.25589507,-79.83337224
+594811.905,4789851.5341,88,Ranalli Travel Agency,"765 Barton St E, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.2555086,-79.83193636
+594827.5298,4789847.2628,89,769 Barton Street,"769 Barton St E, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.25546819,-79.83174464
+592490.97,4790233.8581,90,Good Shepard Venture Centre ,"155 Cannon Street East, Hamilton",ROW,1,Advertising Rack,4,No,,2,Yes,43.259239,-79.86046
+593358.0161,4789931.8974,91,Store,400 Cannon Street E,ROW,1,Hammer Hoop,4,No,Yes,3,Yes,43.25641358,-79.84983079
+595829.7646,4789549.9911,92,Flea Market,"1015 Barton Street East, Hamilton",ROW,1,Advertising Rack,4,No,Yes,3,Yes,43.25266516,-79.81945157
+596166.6996,4789402.3362,93,Centre on Barton,"1111 Barton Street East, Hamilton",ROW,1,Hammer Hoop,4,No,Yes,4,Yes,43.25129295,-79.81532743
+596087.1505,4789386.2195,94,Out of the Basement Collectibles and Antiques,335 Ottawa Street North,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.251158,-79.81631
+596076.3737,4789354.5675,95,Fabric Fabric,317 Ottawa Street North,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.25087442,-79.81644825
+596014.7862,4789089.5909,96,212-214 Ottawa Street Storefront,212 Ottawa Street North,ROW,1,Hammer Hoop,2,No,Yes,4,Yes,43.24849674,-79.81725295
+595986.7795,4789033.8375,97,Puravida,193 Ottawa Street North,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.24799837,-79.81760758
+595962.2298,4788988.5454,98,The Cannon,179 Ottawa Street North,ROW,1,Hammer Hoop,6,No,Yes,3,Yes,43.24759374,-79.81791781
+595937.7568,4788856.5631,99,Antique Detective,137 Ottawa Street North,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.24640865,-79.81824219
+580754.7767,4785204.6255,102,Ancaster Aquatic Centre,"47 Meadowbrook Drive, Ancaster",,1,Multi-Ring,14,No,Yes,12,Yes,43.215308,-80.00577
+580742.6076,4785203.2591,103,Ancaster Aquatic Centre,"47 Meadowbrook Drive, Ancaster",Municipal,1,Multi-Ring,8,No,Yes,12,Yes,43.215297,-80.00592
+580558.3251,4785467.0828,104,Morgan Firestone Arena,"385 Jerseyville Road West, Ancaster",,1,Multi-Ring,8,No,Yes,12,Yes,43.217692,-80.00815
+594675.3361,4790109.7394,105,Lucy Day Park,33 Clinton Street,Park,1,Hammer Hoop,10,No,No,3,Yes,43.25785035,-79.83357414
+595588.4664,4789254.5732,106,Belview Park,205 Belmont Avenue,Park,1,Hammer Hoop,8,No,Yes,3,Yes,43.25003621,-79.82247481
+595562.667,4789258.4074,107,Belview Park,205 Belmont Avenue,Park,1,Hammer Hoop,16,No,Yes,3,Yes,43.250074,-79.82279189
+595095.5288,4785983.2087,108,Huntington Park Recreation Centre,87 Brentwood Drive,Municipal,1,Multi-Ring,8,No,Yes,6,Yes,43.220647,-79.82911
+595331.0973,4783782.656,109,Trenholme Park Nadir Giuseppe (Joe) Perin Bocce Court,135 Trenholme Crescent,Park,1,Multi-Ring,8,No,Yes,6,Yes,43.200806,-79.82659
+591909.0615,4789021.6918,110,Woolverton Park,90 Charlton Avenue East,Park,1,Hammer Hoop,10,No,Yes,2,Yes,43.24839714,-79.86783026
+592571.3398,4787792.8554,111,Inch Park Arena,400 Queensdale Avenue East,Municipal,5,Hammer Hoop,10,No,Yes,7,Yes,43.237253,-79.85988
+590548.5854,4790700.7182,112,Victoria Park Outdoor Pool,"500 King Street West, Hamilton",Municipal,1,Hammer Hoop,12,No,Yes,1,Yes,43.263678,-79.88431
+590555.2879,4790624.2773,113,Victoria Park Community Garden,,Municipal,1,Hammer Hoop,6,No,Yes,1,Yes,43.262989,-79.88424
+588179.4127,4790079.3112,114,Dalewood Recreation Centre,"1150 Main Street West, Hamilton",Municipal,1,Multi-Ring,12,No,Yes,1,Yes,43.25836441,-79.91359592
+589544.0704,4790772.4662,115,Coronation Arena and Pool,81 Macklin Street North,Municipal,1,Multi-Ring,14,No,Yes,1,Yes,43.26444399,-79.89667315
+591334.924,4790003.3893,116,Villiage Atrium/Hamilton Public Library Workplace Child Centre,10 George Street,Municipal,1,Hammer Hoop,2,No,Yes,2,Yes,43.25730509,-79.87473863
+591306.8737,4790013.6339,117,Villiage Atrium/Hamilton Public Library Workplace Child Centre,10 George Street,Municipal,1,Hammer Hoop,2,No,Yes,2,Yes,43.25740072,-79.87508245
+592438.9411,4791490.1899,118,Bennetto Community Centre,450 Hughson Street North,Municipal,1,Multi-Ring,8,No,Yes,2,Yes,43.270556,-79.86089
+591609.4583,4791307.6575,119,Bayfront Park,200 Harbour Front Drive,Park,1,Hammer Hoop,10,No,Yes,2,Yes,43.269014,-79.87114
+592417.6191,4790016.595,120,Beasley Community Centre,"145 Wilson Street, Hamilton",Municipal,2,Multi-Ring,14,No,Yes,2,Yes,43.257292,-79.8614
+592589.0898,4789170.7617,121,Central Memorial Recreation Centre,"93 West Avenue South, Hamilton",Municipal,1,Multi-Ring,14,No,No,2,Yes,43.249656,-79.85943
+592597.7756,4789188.7633,122,Central Memorial Recreation Centre,"93 West Avenue South, Hamilton",Municipal,1,Multi-Ring,8,No,Yes,2,Yes,43.249817,-79.85932
+592542.4951,4789074.7126,123,Carter Park,32 Stinson Street,Park,1,Multi-Ring,16,No,Yes,2,Yes,43.248797,-79.86002
+587939.5143,4789522.0085,124,Stroud Park,145 Stroud Road,Park,1,Multi-Ring,8,No,No,1,Yes,43.253375,-79.91664
+589699.3021,4788750.5286,125,Bottom of Dundurn Stairs,534 Dundurn Street South,Municipal,1,Advertising Rack,4,No,Yes,1,Yes,43.246222,-79.89509
+601932.6845,4786262.7047,126,Hamilton Public Library (Saltfleet Branch),"131 Gray Road, Stoney Creek",Municipal,1,Multi-Ring,6,No,Yes,5,Yes,43.22227068,-79.74489315
+590378.9688,4786985.1815,127,Hamilton Public Library (Terryberry Branch),100 Mohawk Road West,Municipal,1,Multi-Ring,10,No,Yes,8,Yes,43.2302474,-79.8870088
+588417.502,4779231.2512,128,Hamilton Public Library - Mount Hope,"3027 Homestead Drive, Mount Hope",Municipal,1,Multi-Ring,4,No,Yes,11,Yes,43.16067,-79.9124
+591754.7607,4789577.844,129,Hamilton Go Centre,36 Hunter St E.,,1,Multi-Ring,14,No,Yes,2,Yes,43.25342294,-79.86963803
+592995.7145,4788286.7638,130,East Uptown Yoga,489 Concession Street,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.24164741,-79.85457107
+593202.8801,4786155.6947,132,Walmart,Mohawk Rd E and Upper Sherman,Private ,1,Multi-Ring,10,Yes,Yes,7,Yes,43.222436,-79.85238
+593144.9847,4786171.8951,133,Walmart,Mohawk Rd E and Upper Sherman,Private ,1,Multi-Ring,14,Yes,Yes,7,Yes,43.222589,-79.85309
+592436.1872,4786027.7029,134,Scotiabank,859 Upper Wentworth St,Private ,1,Multi-Ring,4,No,Yes,7,Yes,43.221378,-79.86184
+592386.3403,4785592.0828,135,Limeridge Mall,limeridge area,Private ,1,Multi-Ring,4,No,Yes,7,Yes,43.21746223,-79.86252656
+592389.2285,4785595.8276,136,Sport Check,limeridge mall,Private ,1,Hammer Hoop,4,No,Yes,7,Yes,43.21749559,-79.86249038
+590340.2692,4789380.1595,137,Locke St. Library,285 Locke St. S,ROW,1,Hammer Hoop,6,,,1,Yes,43.25181404,-79.88709285
+594293.3592,4786693.034,138,Dollarama,Fennell E and Upper Gage,Private ,1,Multi-Ring,8,Yes,Yes,6,Yes,43.22713813,-79.83886364
+594353.0899,4786859.488,139,Shoppers Drug Mart,Fennell East and Upper Gage,Private ,1,Multi-Ring,4,Yes,Yes,6,Yes,43.22862923,-79.8380998
+594359.0995,4786884.7451,140,Beer Store,Fennell E and Upper Gage,Private ,1,Multi-Ring,6,No,Yes,6,Yes,43.22885586,-79.83802149
+594254.5492,4786824.4391,141,Cooler's Sports Bar ,Fennell E and Upper Gage,Private ,1,Multi-Ring,7,Yes,Yes,7,Yes,43.228326,-79.83931901
+593641.291,4787434.323,142,First Ontario Credit Union,upper sherman,Private ,1,Hammer Hoop,4,No,Yes,7,Yes,43.23389309,-79.84676583
+592783.3045,4787162.9839,143,Value Village,Fennell E and Upper Wentworth,Private ,1,Multi-Ring,6,Yes,Yes,7,Yes,43.23155627,-79.85737589
+592705.4764,4787068.6995,144,Boutique Fit Women's Gym and Nutri Bar Cafe,635 Upper Wentworth Street ,Private ,1,Multi-Ring,8,No,Yes,7,Yes,43.230717,-79.85835
+590759.6802,4790897.5153,145,Albanese Branding,435 York Blvd,Private,1,Hammer Hoop,2,,,1,Yes,43.26542436,-79.88167706
+590562.0638,4790131.3421,146,RBC,Locke Street South and Main Street West,Private ,1,Hammer Hoop,2,No,Yes,1,Yes,43.25855031,-79.88423758
+594599.1283,4790363.7657,148,Cotton Factory,270 Sherman Avenue North,ROW,1,Hammer Hoop,6,No,Yes,3,Yes,43.26014687,-79.83446922
+585893.7948,4790237.7175,149,J.C.'s Convenience,10 Osler Court,ROW,1,Hammer Hoop,2,No,Yes,13,Yes,43.26005451,-79.94172613
+595861.3166,4788532.8172,150,Hamilton Regional Indigenous Centre,34 Ottawa Street North,ROW,1,Hammer Hoop,8,No,Yes,4,Yes,43.24350375,-79.81923988
+596020.0093,4789048.6503,151,Unused Building at Time of Entry,204 Ottawa Street North,ROW,1,Hammer Hoop,10,No,Yes,4,Yes,43.2481275,-79.81719575
+591754.1671,4789771.6453,152,Hamilton Club,6 Main Street East,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25516779,-79.86961307
+593449.9578,4789227.7156,153,Culantro Peruvian Eatery,537 Main Street East,ROW,1,Hammer Hoop,4,No,Yes,3,Yes,43.25006253,-79.84881772
+594687.4405,4788805.8997,154,,895 Main Street East,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.24611059,-79.83364909
+593328.0248,4790359.9036,155,Motel,359 Barton Street East,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.26027058,-79.85012769
+591192.8997,4788045.0045,156,Big Bonus Convenience,601 Upper James Street,ROW,1,Hammer Hoop,2,No,Yes,8,Yes,43.23969102,-79.87681211
+590989.4679,4788268.6473,159,T. Melville Bailey Park,,Park,1,Multi-Ring,6,No,Yes,8,Yes,43.24172904,-79.87928032
+601817.3239,4786396.6783,160,Store,146 Hamilton Regional Rd 8,Private,1,Hammer Hoop,2,No,Yes,5,Yes,43.22349236,-79.74628854
+591545.3857,4786547.798,161,Apartment,150 Mohawk,Private ,1,Multi-Ring,8,No,Yes,8,Yes,43.226169,-79.87272
+597498.8592,4775340.9758,163,Shopping Centre,"2501 Regional Road 56, Binbrook",Private,1,Multi-Ring,10,No,Yes,11,Yes,43.12453,-79.8014
+597433.8221,4775418.0007,164,Binbrook Gym,"2501 Hamilton Regional Road 56, Binbrook",Private,1,Multi-Ring,6,No,Yes,11,Yes,43.12523182,-79.80218583
+584636.9391,4790946.7207,165,CIBC Bank Dundas,Dundas,Private ,1,Multi-Ring,4,No,Yes,13,Yes,43.26658,-79.9571
+585239.4829,4790813.2037,166,McDonalds,"10 Cootes Drive, Dundas",Private ,1,Multi-Ring,10,No,Yes,13,Yes,43.26531,-79.94969732
+590055.9951,4789886.9018,167,Steel City Surplus,182 Dundurn Street South,Private,1,Multi-Ring,6,No,Yes,1,Yes,43.25641025,-79.89051137
+589708.0348,4791712.767,168,Princess Point,Princess Point,Private ,1,Multi-Ring,8,No,Yes,1,Yes,43.27289,-79.8945
+589870.1261,4789279.0562,169,Apartment,Aberdeen @ Dundurn,Private ,1,Multi-Ring,4,Yes,Yes,1,Yes,43.25096,-79.8929
+590106.6385,4790307.3807,170,Store: Mcdonalds,Strathcona,Private,1,Multi-Ring,4,No,Yes,1,Yes,43.26018977,-79.88981878
+590099.7949,4790326.1984,171,Store: McDonalds,Dundurn Plaza,Private ,1,Multi-Ring,8,No,Yes,1,Yes,43.26036,-79.8899
+590150.1718,4790446.342,172,Fortinoes,Strathcona,Private,1,Multi-Ring,10,No,Yes,1,Yes,43.26143563,-79.88925977
+584863.3032,4790887.6478,173,Grafton Square,"2 King Street West, Dundas",ROW,1,Hammer Hoop,8,No,Yes,13,Yes,43.26602269,-79.95432029
+591814.2407,4790210.3383,174,City Centre,77 James Street North,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25911,-79.8688
+590754.854,4789608.475,175,Ryerson Recreation Centre/Ryerson Middle School,251 Duke Street,School,1,Multi-Ring,14,No,Yes,1,Yes,43.25381976,-79.8819489
+590019.5155,4789715.0043,176,The Beer Store (Dundurn Location),229 Dundurn Street South,Municipal,1,Hammer Hoop,2,No,Yes,1,Yes,43.25486702,-79.8909888
+591718.4383,4789667.4567,177,YMCA,79 James St S,ROW,1,Hammer Hoop,22,No,Yes,2,Yes,43.25423414,-79.8700705
+591871.2975,4790193.3386,178,City Centre,77 James Street North,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25895,-79.8681
+591859.6791,4790158.8873,179,City Centre,77 James Street North,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25864125,-79.86824886
+589995.2737,4789621.814,180,Commercial Parking Lot,261 Dundurn Street South,Private,1,Multi-Ring,5,No,Yes,1,Yes,43.25403092,-79.89130262
+591698.8213,4789983.0575,181,Jackson Square,"100 King Street West, Hamilton",ROW,1,Advertising Rack,4,No,Yes,2,Yes,43.25707786,-79.87025959
+591555.136,4790035.8644,182,Jackson Square,"116 King Street West, Hamilton",ROW,1,Advertising Rack,4,No,Yes,2,Yes,43.25757074,-79.8720207
+591368.1602,4790103.3373,183,Store,"170 King Street West, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25820089,-79.87431265
+591303.8663,4790131.2527,184,Store,"194 King Street West, Hamilton",Private,1,Multi-Ring,4,No,Yes,2,Yes,43.25846,-79.8751
+588980.7313,4790593.1458,185,Simpson Law Office,950 King Street West,Municipal,1,Hammer Hoop,2,No,Yes,1,Yes,43.26289629,-79.90364212
+591026.1707,4790256.3682,186,Store,"306 King Street West, Hamilton",ROW,1,Hammer Hoop,6,No,Yes,2,Yes,43.25962,-79.8785
+591589.1064,4790010.1506,187,Office,"123 King Street West, Hamilton",ROW,1,Advertising Rack,4,No,Yes,2,Yes,43.25733512,-79.87160653
+589019.2945,4790616.1062,188,Fazaka's Law Office,942 King Street West,Municipal,1,Hammer Hoop,4,No,Yes,1,Yes,43.26309845,-79.90316334
+591758.3794,4789837.559,189,H&R Block,34 James St S,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.2557607,-79.8695502
+591731.8068,4789581.6705,190,GO Station,36 Hunter Street East,ROW,2,Multi-Ring,28,Yes,Yes,2,Yes,43.25346019,-79.86992012
+591735.5912,4789582.8119,191,GO Station,36 Hunter Street East,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25347,-79.86987331
+588814.8697,4790514.7132,192,Subway,1018 King Street West,Municipal,1,Hammer Hoop,4,No,Yes,1,Yes,43.26220973,-79.90569803
+588671.5175,4790396.3325,193,TCBY / Colours and Esthetics Studio,1061 King Street West,Municipal,1,Hammer Hoop,2,No,Yes,1,Yes,43.26116083,-79.90748304
+591910.8072,4790284.6605,194,Money Mart,108 James Street North,ROW,1,Advertising Rack,4,No,Yes,2,Yes,43.25976735,-79.86759808
+588902.1882,4790529.3267,195,Shoppers Drug Mart - king w,"991 King St W, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.262331,-79.90462
+588882.9348,4790515.6656,196,Scotiabank - king w,"999 King St W, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26221028,-79.90485939
+588858.1675,4790481.5437,197,Pace Credit - king w,"1005 King Street West, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.261906,-79.90517
+588849.6611,4790477.2581,198,Snooty Fox - king w,"1011 King Street West, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26186842,-79.90527548
+588837.2107,4790470.1618,199,CIBC Banking Centre - king w,"1015 King Street West, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.261806,-79.90543
+588766.8869,4790447.9879,200,The Casual Gourmet,"1027 King Street West, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26161465,-79.90629988
+588740.7089,4790433.1825,201,Charlie's Chopsticks,"1035 King Street West, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26148444,-79.90662475
+588718.8621,4790420.8775,202,Westdale Florists,1041 King Street West,ROW,1,Hammer Hoop,4,No,Yes,1,Yes,43.26137623,-79.90689586
+591854.4525,4789357.8719,203,Cat N Fiddle Pub,"173 John Street South, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25143041,-79.86844679
+589939.2128,4789457.2455,204,Ray's Place,"303 Dundurn St S, Hamilton, ON L8P 4L4",ROW,1,Hammer Hoop,8,No,Yes,1,Yes,43.252556,-79.89202
+588700.6449,4790384.75,206, Westdale Jewellers,Westdale,ROW,1,Hammer Hoop,4,No,Yes,1,Yes,43.26105312,-79.90712609
+587817.2806,4789996.1518,207,Williams,"Main Street
+1309 Main St W",ROW,1,Hammer Hoop,4,No,Yes,1,Yes,43.257658,-79.91807
+592421.9097,4789678.2089,208,Tundra Music,257 King Street East,,1,Hammer Hoop,2,No,Yes,2,Yes,43.25424502,-79.86140392
+593527.6139,4789838.8805,209,Big Bee Variety,440 Cannon St E,ROW,1,Advertising Rack,4,No,Yes,3,Yes,43.25555514,-79.84775755
+593041.9783,4790049.902,210,KFC,307 Cannon St E,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.25751504,-79.85370367
+592944.5804,4790061.5894,211,Young Variety,155 Victoria Avenue North (at Cannon),ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.25763228,-79.85490143
+592793.2667,4790117.3501,212,Shoppers Drug Mart ,232 Cannon Street East,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.25815293,-79.85675589
+592329.6888,4790265.0696,213,Good Shepard Venture Centre ,120 Cannon Street East (at Mary),ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25953977,-79.86244146
+592001.8902,4789865.5146,214,Hi & Buy Discount & Beauty Supplies,"81 King St E, Hamilton (at John)",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.2559827,-79.86654609
+595963.2065,4788953.2913,216,Laidlaw United,"155 Ottawa Street North, Hamilton, ON",ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.24727623,-79.81791192
+596064.0166,4789309.3437,217,Momentum Fitness,299 Ottawa Street North,,1,Hammer Hoop,2,No,Yes,3,Yes,43.25046885,-79.81660833
+592060.4698,4789948.3211,218,Lulu's/77 Night Club,77 King William St.,ROW,1,Multi-Ring,5,No,Yes,2,Yes,43.25672104,-79.8658107
+592234.2873,4789743.6635,219,Jet Cafe,184 King Street East,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25485728,-79.86370394
+596021.2816,4789112.7825,220,Curbside Grill,224 Ottawa Street North,,1,Hammer Hoop,2,No,Yes,4,Yes,43.2487047,-79.81716891
+596676.3018,4788175.6233,222,Indwell,1429 Main Street East,ROW,1,Hammer Hoop,6,No,Yes,4,Yes,43.24018398,-79.80926615
+594294.8922,4789356.734,223,Hakim Optical,"924 King St E, Hamilton, ON L8M 1B8",Municipal,1,Hammer Hoop,2,No,Yes,3,Yes,43.25111886,-79.83838924
+595307.0568,4789779.0842,224,Little Ray's Reptile Zoo,"869 Barton at Gage
+closest address 221 Gage Ave N South side",ROW,1,Hammer Hoop,4,No,Yes,3,Yes,43.25479391,-79.82584997
+593965.528,4790165.1493,225,541 Eatery and Exchange,541 Barton St E,ROW,1,Hammer Hoop,4,No,Yes,3,Yes,43.25843802,-79.84230796
+592301.9828,4789717.5307,226,King Karaoke,214 & 216 King Street East,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25461372,-79.86287449
+591601.5798,4789284.5231,227,House,193 James Street South,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25080082,-79.87157353
+588287.1881,4798566.3693,228,Waterdown District Highschool,"215 Parkside Drive, Waterdown",School,1,Multi-Ring,32,No,Yes,15,Yes,43.33476073,-79.91090536
+592897.7382,4790486.8684,229,The West Avenue School ,"255 West Avenue North, Hamilton",School,1,Hammer Hoop,2,No,Yes,3,Yes,43.26146679,-79.8554067
+585615.4724,4785888.9015,230,Holy Name of Mary Catholic Elementary School,"161 Meadowlands Blvd, Ancaster",School,4,Multi-Ring,48,No,Yes,12,Yes,43.220933,-79.94583
+592112.0327,4789787.7886,231,Effort Square - North Side,105 Main Street East,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25526948,-79.8652024
+597998.6485,4787579.1765,236,Queenston at Parkdale ,,ROW,1,Multi-Ring,4,No,Yes,4,Yes,43.23464367,-79.79308871
+597976.3157,4787560.5636,237,Queenston at Parkdale ,,ROW,1,Multi-Ring,4,No,Yes,4,Yes,43.234479,-79.793367
+599520.4596,4787085.66,238,Queenston at Nash,637 Queenston Rd,ROW,1,Multi-Ring,6,No,Yes,5,Yes,43.23000146,-79.77443992
+591646.2,4789423.0697,241,James South/Augusta,155 James Street South,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25204272,-79.87100092
+596087.1018,4789389.6622,242,The Wax Lounge,337 Ottawa St N,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.251189,-79.81631
+593238.1162,4789488.4269,243,Mediserve Pharmacy,"591 King Street East, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.25243591,-79.85138271
+594467.891,4789966.4025,244,Coven Market,673 Barton Street East,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.25658594,-79.83615398
+591773.1074,4790190.4548,245,Hamilton City Centre,77 James Street North,ROW,1,Multi-Ring,14,No,Yes,2,Yes,43.258936,-79.86931
+593074.5808,4788244.3264,246,Zoetic,534 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.24125562,-79.85360703
+594006.9203,4787944.4622,247,Plaza,784 Concession St,ROW,1,Hammer Hoop,4,No,Yes,7,Yes,43.23844033,-79.84217688
+594120.798,4789054.8859,248,St Peter's Day Care,st clair and main e,Private ,1,Multi-Ring,4,No,Yes,3,Yes,43.24842312,-79.84058501
+592415.5219,4791421.8926,249,North Hamilton Community Health Centre,MacCauley,Private ,1,Multi-Ring,6,No,Yes,2,Yes,43.269944,-79.86119
+594233.9335,4790295.089,250,MasterPaints,33 Princess,Private ,1,Hammer Hoop,2,No,Yes,3,Yes,43.25957433,-79.83897953
+597292.1332,4775003.6867,251,Tim Hortons,Binbrook,Private,1,Multi-Ring,6,No,Yes,11,Yes,43.12152,-79.804
+590164.7575,4790504.9453,252,Fortinoes,Strathcona,Private,1,Multi-Ring,4,No,Yes,1,Yes,43.26196149,-79.8890705
+596000.0076,4789077.109,253,Onyx Hair Boutique,209 Ottawa Street North,,1,Hammer Hoop,2,No,Yes,3,Yes,43.24838625,-79.81743713
+595932.5222,4788797.7252,254,Bounty Hunter Toys,120 Ottawa Street North,,1,Hammer Hoop,2,No,Yes,4,Yes,43.24587961,-79.81831689
+591955.0013,4789673.6093,255,Cannabis Supply Co,55 John Street South,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25426071,-79.86715568
+591699.5466,4790218.0221,256,Farmers Market,35 york boulevard,,1,Multi-Ring,5,No,Yes,2,Yes,43.25919314,-79.87021154
+591680.1814,4790220.6533,257,Hamilton Public Library,,,1,Multi-Ring,8,No,Yes,2,Yes,43.25921918,-79.87044965
+591665.0815,4790224.2558,258,Hmlton Public Library,,,1,Multi-Ring,5,No,Yes,2,Yes,43.25925345,-79.87063505
+591920.3145,4789606.7795,259,Tim Hortons,78 John Street South,Municipal,1,Hammer Hoop,2,No,Yes,2,Yes,43.25366328,-79.86759407
+591578.1088,4789654.6284,260,YWCA Downtown,45 MacNab Street,Private,1,Multi-Ring,5,No,Yes,2,Yes,43.25413571,-79.8718011
+591525.7987,4789767.6518,261,CityLAB Hamilton,58 Jackso Street,Municipal,1,Multi-Ring,14,No,Yes,2,Yes,43.25515961,-79.87242663
+591393.6575,4789938.8436,262,David Braley Health Centre,,Private,1,Multi-Ring,4,No,Yes,2,Yes,43.25671687,-79.87402587
+591411.8673,4789968.4901,263,David Braley Health Centre,,Private,1,Multi-Ring,10,No,Yes,2,Yes,43.25698157,-79.87379665
+591449.1305,4790158.8179,264,Jackson Square,,,1,Multi-Ring,22,No,Yes,2,Yes,43.25869056,-79.87330605
+595935.6427,4788846.3533,265,Cuts R Us,133 Ottawa Street North,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.246317,-79.81827
+592727.5042,4789542.9739,266,Canadian Red Cross Society,"400 King Street East, Hamilton",ROW,1,Advertising Rack,4,No,Yes,3,Yes,43.25298998,-79.85766262
+593934.3301,4789390.4127,267,The Kitchen Collective,"811 King St E, Hamilton",ROW,1,Hammer Hoop,6,No,Yes,3,Yes,43.25146707,-79.84282434
+594366.535,4789382.4768,268,Former Good Life Deli,"943 King St E, Hamilton",Municipal,1,Hammer Hoop,4,No,Yes,3,Yes,43.25134165,-79.83750245
+594877.2039,4789398.8547,269,Tim Hortons Field,64 Melrose Ave N,ROW,1,Hammer Hoop,34,No,Yes,3,Yes,43.251425,-79.83121
+594893.5385,4789391.9742,270,Tim Hortons Field,64 Melrose Ave N,ROW,1,Hammer Hoop,34,No,Yes,3,Yes,43.251361,-79.83101
+595915.5361,4788731.6489,271,Crown Point Community Church,92 Ottawa North,ROW,1,Hammer Hoop,2,No,Yes,4,Yes,43.2452869,-79.81853758
+595923.1724,4788751.984,272,Skizzers,108 Ottawa North,ROW,1,Hammer Hoop,2,No,Yes,4,Yes,43.245469,-79.81844
+595948.5434,4788854.3162,273,Strip Mall,134 Ottawa Street North,ROW,1,Hammer Hoop,2,No,Yes,4,Yes,43.24638705,-79.81810974
+595984.0074,4789024.3023,274,Calipan Bakery,186 Ottawa Street North,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.24791288,-79.81764338
+595989.583,4788999.6417,275,True Hamiltonian Store,187 Ottawa Street North,ROW,1,Hammer Hoop,4,No,Yes,4,Yes,43.24769016,-79.81757901
+595995.4756,4789016.8484,276,Orange Tree Boutique,190 Ottawa Street North,ROW,1,Hammer Hoop,2,No,Yes,4,Yes,43.24784431,-79.81750344
+596010.9187,4789074.4905,277,Revolving Closet,208 Ottawa Street North,ROW,1,Hammer Hoop,2,No,Yes,4,Yes,43.24836129,-79.81730321
+596019.6341,4789106.5062,278,Dora's,219 Ottawa North,ROW,1,Hammer Hoop,2,No,Yes,4,Yes,43.24864841,-79.81719029
+595535.806,4788524.0871,280,LMNOP (closed),"1111 Main Street East, Hamilton",ROW,1,Advertising Rack,4,No,Yes,3,Yes,43.24346647,-79.82325
+596029.4627,4789139.8163,281,East Kiwanis Place,236 Ottawa Street North,ROW,1,Hammer Hoop,2,No,Yes,4,Yes,43.24894704,-79.81706344
+596038.7011,4789174.0043,282,Zorro Dry Cleaners,246 Ottawa St N,ROW,1,Hammer Hoop,2,No,Yes,4,Yes,43.24925365,-79.8169437
+596060.316,4789254.638,283,The Millionaire's Daughter,272 Ottawa St N,ROW,1,Hammer Hoop,2,No,Yes,4,Yes,43.24997682,-79.81666344
+595083.4806,4789569.2448,284,Tim Horton's Field,64 Melrose Ave N,ROW,1,Multi-Ring,28,No,Yes,3,Yes,43.252933,-79.82864
+594922.1637,4789609.3067,285,Tim Horton's Field,64 Melrose Ave N,ROW,1,Multi-Ring,56,No,Yes,3,Yes,43.253314,-79.83062
+594977.4346,4789372.8208,286,Tim Horton's Field,64 Melrose Ave N,ROW,1,Hammer Hoop,32,No,Yes,3,Yes,43.251178,-79.82998
+595119.0238,4786496.9658,287,Strip Mall,"1130 Fennell Avenue East,",ROW,1,Advertising Rack,4,No,Yes,6,Yes,43.22526932,-79.82873222
+595132.7115,4786518.4486,288,Strip Mall ,1119 Fennell Avenue East,ROW,1,Advertising Rack,4,No,Yes,6,Yes,43.225461,-79.82856
+592395.9401,4785903.0854,289,Goodlife Fitness,883 Upper Wentworth St,ROW,1,Advertising Rack,4,No,Yes,7,Yes,43.220261,-79.86235633
+593880.7668,4787979.4113,290,Jerusalem Pita,760 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.23877069,-79.84372437
+593900.5763,4787952.0263,291,LoPresti Pharmacy,770 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.23852168,-79.8434851
+593916.4563,4787969.1073,292,LoPresti Pharmacy,770 Concession St,ROW,1,Hammer Hoop,2,No,No,7,Yes,43.23867348,-79.84328665
+593095.2702,4788238.8095,293,Just the Essentials,532 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.2412034,-79.85335318
+593066.75,4788250.2995,294,The Zoetic Theatre,526 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.24131036,-79.85370245
+590739.7859,4790955.1068,295,The Mustard Seed,460 York Blvd,ROW,2,Advertising Rack,8,No,Yes,1,Yes,43.26594525,-79.88191265
+590852.6303,4790894.5273,296,Behind De Le Sal Yoga,430 York Blvd,ROW,1,Advertising Rack,4,No,Yes,1,Yes,43.26538626,-79.88053245
+591005.6628,4790730.2676,297,Altima Hess Village Pharmacy,340 York Blvd,ROW,1,Advertising Rack,4,No,Yes,1,Yes,43.26388897,-79.87867432
+590610.0231,4791023.6548,298,Realtors Association of Hamilton-Burlington,505 York Blvd,ROW,1,Advertising Rack,4,No,Yes,1,Yes,43.266578,-79.8835
+590508.2895,4791348.0784,299,Dundurn Castle,610 York Blvd,Municipal,1,Multi-Ring,6,No,Yes,1,Yes,43.269511,-79.8847
+587776.15,4790328.4138,300,McMaster University - Hospital - NW,,School,1,Multi-Ring,96,No,Yes,1,Yes,43.26065417,-79.9185237
+587778.3129,4790305.2098,301,McMaster University - Health Sciences Library - North Courtyard ,,School,1,Multi-Ring,44,No,Yes,1,Yes,43.26044501,-79.91850076
+587697.9092,4790134.3618,302,McMaster University - T13 - North,,School,1,Multi-Ring,8,No,Yes,1,Yes,43.25891621,-79.91951842
+587672.7191,4790109.5975,303,McMaster University - Engineering Technology Building - NE,,School,1,Multi-Ring,56,No,Yes,1,Yes,43.25869619,-79.91983267
+587617.7676,4790157.229,304,McMaster University - Information Technology Building - NE Corner,,School,1,Multi-Ring,64,No,Yes,1,Yes,43.25913141,-79.920502
+587546.1201,4790161.7854,305,McMaster University - Information Technology Building - NW Corner,,School,1,Multi-Ring,16,No,Yes,1,Yes,43.25918076,-79.92138386
+587476.775,4790318.9347,306,McMaster University - A.N. Bourns Science Building - North Thode Courtyard,,School,1,Multi-Ring,48,No,Yes,1,Yes,43.26060364,-79.92221312
+587468.63,4790333.1425,307,McMaster University - Thode Library - South Courtyard,,School,1,Multi-Ring,24,No,Yes,1,Yes,43.2607325,-79.9223112
+587447.3262,4790429.1655,308,McMaster University - GO Station - East,,School,1,Multi-Ring,14,No,Yes,1,Yes,43.26159947,-79.92255839
+587578.2065,4790436.5881,309,McMaster University - Nuclear Research Building - Secure Bike Lockers - NE,,Secure,1,Other,8,Yes,Yes,1,Yes,43.2616511,-79.92094491
+587579.6359,4790427.2943,310,McMaster University - Nuclear Research Building - East,,School,1,Multi-Ring,32,No,Yes,1,Yes,43.26156726,-79.92092878
+587653.6946,4790522.9449,311,McMaster University - Burke Science Building - NE,,School,1,Multi-Ring,48,No,Yes,1,Yes,43.2624198,-79.92000123
+587657.4344,4790482.4152,312,McMaster University - Burke Science Building - East,,School,1,Multi-Ring,44,No,Yes,1,Yes,43.26205447,-79.91996161
+587548.1535,4790286.958,313,McMaster University - A.N. Bourns Science Building - South Entrance,,School,1,Multi-Ring,16,No,Yes,1,Yes,43.26030746,-79.92133891
+587564.3247,4790277.3471,314,McMaster University - John Hodgins Engineering Building - SW Courtyard,,School,1,Multi-Ring,48,No,Yes,1,Yes,43.26021906,-79.92114123
+587573.489,4790333.1136,315,McMaster University - A.N. Bourns Science Building - NE Corner,,School,1,Multi-Ring,64,No,Yes,1,Yes,43.26072006,-79.92101947
+587679.3486,4790286.2738,316,McMaster University - Gerald Hatch Engineering Centre - East,,School,1,Multi-Ring,80,No,Yes,1,Yes,43.26028605,-79.91972288
+591569.8235,4789619.4928,317,MacNab Street Rail Tunnel,101 MacNab Street South,Municipal,1,Hammer Hoop,4,No,Yes,2,Yes,43.25382039,-79.87190899
+592590.266,4789107.3959,318,Carter Park,32 Stinson Street,Park,1,Multi-Ring,14,No,Yes,2,Yes,43.24908538,-79.85942616
+589155.4921,4790617.623,319,Former Comic Book Store,897 King Street West,ROW,1,Hammer Hoop,4,No,Yes,1,Yes,43.26309601,-79.90148526
+591913.044,4790104.0535,320,LiUNA Student Residence,20 Rebecca Street,Private,1,Multi-Ring,6,No,Yes,2,Yes,43.25814108,-79.86760066
+590038.486,4789645.3097,321,United Family Martial Arts ,,,1,Multi-Ring,5,No,Yes,1,Yes,43.25423729,-79.89076652
+589185.9982,4786680.4223,322,Newlands Park,137 Lynbrook Drive,Park,1,Multi-Ring,6,No,Yes,8,Yes,43.2276456,-79.9017465
+590891.5129,4786457.7265,323,Dave Andreychuk Mountain Arena,25 Hester St.,,1,Multi-Ring,8,No,Yes,8,Yes,43.22543714,-79.88078504
+594954.2777,4788497.5892,324,Gage Park - Maplewood Entrance,,Park,1,Hammer Hoop,4,No,Yes,3,Yes,43.24330136,-79.830416
+591889.0948,4790251.0687,325,Merit Brewing Company,107 James Street North,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25946757,-79.86787114
+591884.9848,4790241.0326,326,Cottage P Tattoo and Piercing,105 James Street North,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25937772,-79.86792344
+592306.7356,4786731.8826,327,Hill Park Recreation Centre,305 South Bend Rd E,,2,Multi-Ring,16,Yes,Yes,7,Yes,43.22773355,-79.86331582
+590845.7877,4790282.4772,328,,385 King Street West,ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.25987682,-79.88071771
+584668.2082,4790945.7122,329,BMO - Dundas Branch,77 King Street West Dundas,Private,1,Hammer Hoop,2,No,Yes,13,Yes,43.26656741,-79.95671492
+591962.2267,4790505.6713,330,Mulberry Cafe,193 James Street North,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.26175081,-79.86692777
+592044.8927,4790739.7485,331,Unknown Store,298 James Street N,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.2638481,-79.86587031
+592344.5732,4791773.2389,332,Hamilton Port Authority,605 James Street N,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.27311583,-79.86200517
+589887.537,4786726.1386,333,Westwood Elementary School,9 Lynbrook Dr.,School,3,Multi-Ring,22,Yes,Yes,8,Yes,43.22797393,-79.89310174
+591406.8452,4786370.4249,334,St. Michael Elementary School,135 Hester Street,School,2,Multi-Ring,22,No,Yes,8,Yes,43.22458891,-79.87445503
+591980.2159,4787838.2657,335,Latin Flair,600 Upper Wellington,ROW,1,Hammer Hoop,2,No,Yes,8,Yes,43.23773415,-79.86715138
+584139.4546,4786745.1943,338,Briarwood Homes,151 McNiven Road,ROW,1,Hammer Hoop,2,No,Yes,12,Yes,43.22880844,-79.96387047
+587205.3322,4787813.3546,339,St. Teresa of Avila Elementary School,171 San Remo Dr,School,3,Multi-Ring,42,No,Yes,14,Yes,43.23807708,-79.92595343
+586985.9347,4789776.311,340,Fortinoes,1579 Main Street West,Private,1,Multi-Ring,7,No,Yes,1,Yes,43.25577516,-79.92834533
+586444.5003,4789836.432,341,Sports Medicine Experts ,1685 Main Street West,Private,1,Multi-Ring,8,No,Yes,1,Yes,43.25637872,-79.93500516
+586309.5297,4789925.4409,342,Apartments,1712 Main Street West,Private,1,Multi-Ring,10,No,Yes,1,Yes,43.25719555,-79.93665377
+586310.8846,4789934.0012,343,Apartments,1712 Main Street West,Private,1,Multi-Ring,20,No,Yes,1,Yes,43.25727247,-79.93663574
+592176.5739,4789990.2899,344,Wesley Apartments ,,Private,1,Multi-Ring,12,No,Yes,2,Yes,43.2570847,-79.86437354
+592262.0691,4790206.2077,345,Seedworks,,Private,1,Multi-Ring,8,No,Yes,1,Yes,43.25901812,-79.86328427
+591524.7884,4789872.5268,346,Concert Hall,50 Main Street West,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25610391,-79.87242165
+585811.2791,4789994.5532,347,University Plaza - Freshii,"101 Osler Drive, Dundas",Private,1,Multi-Ring,6,Yes,Yes,13,Yes,43.25787467,-79.94278049
+596101.4886,4788349.6095,348,New Hope Bikes,1249 Main Street East,ROW,1,Hammer Hoop,4,,,4,Yes,43.2418238,-79.81631415
+596156.1168,4784736.7694,349,Mohawk 4 Ice Centre,710 Mountain Brow Blvd,,1,Multi-Ring,14,No,Yes,6,Yes,43.20929114,-79.81627103
+594643.6194,4784868.4216,350,Giant Tiger,969 Upper Ottawa Street,,1,Multi-Ring,3,Yes,Yes,6,Yes,43.21066751,-79.83486425
+595024.769,4785013.6506,351,Lisgar Elementary School,110 Anson Avenue,School,2,Multi-Ring,26,No,Yes,6,Yes,43.21192711,-79.83014797
+585586.1452,4791779.7344,352,Yorkview Elementary School,86 Cameron Avenue,School,1,Multi-Ring,12,No,Yes,13,Yes,43.27397251,-79.94527627
+585556.021,4791807.9322,353,Yorkview Elementary School,"86 Cameron Avenue, Dundas",School,1,Multi-Ring,12,No,No,13,Yes,43.2742298,-79.94564306
+590034.6332,4789646.6447,354,United Family Martial Arts,,,1,Multi-Ring,14,No,Yes,1,Yes,43.25424977,-79.89081376
+589829.8602,4790054.9378,355,pT Health,70 Frid Street,ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.25795007,-79.89326944
+589835.5345,4790069.2701,356,pT Health,70 Frid Street,ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.25807842,-79.8931972
+585045.9045,4791549.4859,357,Dundas Driving Park,71 Cross Street,Park,1,Multi-Ring,10,No,Yes,13,Yes,43.27196074,-79.95196842
+594039.5291,4786673.4051,358,Blessed Sacrament Catholic Elementary School,315 E 37th Street,School,1,Multi-Ring,14,No,Yes,7,Yes,43.22699309,-79.84199205
+592396.2115,4786352.6132,359,Sackville Hill Seniors Recreation Centre,780 Upper Wentworth Street,,1,Multi-Ring,8,Yes,Yes,7,Yes,43.22430805,-79.86227772
+591960.2214,4790391.7933,360,Bul & Gogi BBQ,15 Cannon Street East,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.26072583,-79.86697149
+592043.9776,4790731.045,361,Former Hamilton Evergreen,294 James Street N,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.26376985,-79.86588304
+592522.5321,4789478.0744,363,Ontario Works Central Office,250 Main Street East,Private,1,Multi-Ring,6,No,Yes,2,Yes,43.25243088,-79.86019814
+591918.9554,4789563.2055,364,Skate Shop,97 John Street South,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25327115,-79.86761808
+592151.5889,4790740.8159,368,Lick the Whisk,29 Barton Street East,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.26384467,-79.86455573
+584415.1968,4790988.3585,374,Shopper's Drugmart,"133 King Street, Dundas",Private,1,Multi-Ring,4,No,Yes,13,Yes,43.26697975,-79.95982549
+586025.8786,4786769.3923,378,McDonalds,1015 Golf Links Road,Private,1,Multi-Ring,9,No,Yes,12,Yes,43.22881356,-79.9406403
+586074.7543,4786747.9557,382,Golf Links Plaza - Subway,"1015 Golf Links Road, Unit 402",Private,1,Multi-Ring,14,No,Yes,12,Yes,43.22861498,-79.94004187
+590493.0777,4787760.9035,383,Mohawk College,135 Fennell Avenue West,,2,Multi-Ring,24,No,Yes,8,Yes,43.23721755,-79.88547657
+590503.2128,4787767.5696,387,Mohawk College,135 Fennell Avenue West,,3,Multi-Ring,36,No,Yes,8,Yes,43.23727635,-79.88535067
+596311.7735,4788696.5258,389,Crown Point Park,120 Roxborough Avenue,Park,1,Hammer Hoop,6,No,No,4,Yes,43.24492019,-79.81366399
+596303.3942,4788703.7856,390,Crown Point Park / Honourable Bob Mackenzie Park,120 Roxborough Avenue,Park,1,Hammer Hoop,6,No,No,4,Yes,43.24498661,-79.81376592
+597182.3455,4788744.7899,397,Andy Warburton Park,351 Britannia Avenue,Park,1,Multi-Ring,8,No,Yes,4,Yes,43.245243,-79.80293436
+590231.1788,4787957.3621,399,Mohawk College ,135 Fennell Avenue West,,1,Multi-Ring,10,No,Yes,8,Yes,43.23901765,-79.8886694
+590468.5572,4787989.9314,400,Mohawk College,135 Fennell Avenue West,,1,Multi-Ring,12,No,Yes,8,Yes,43.23928244,-79.88574094
+592976.5698,4788264.7508,403,Shoppers Drug Mart,Concession and Upper Wentworth,,1,Multi-Ring,10,No,Yes,7,Yes,43.24145159,-79.85481054
+590531.1769,4787975.7581,404,Mohawk College,135 Fennell Avenue West,,1,Multi-Ring,20,No,Yes,8,Yes,43.23914732,-79.88497215
+582137.8676,4784450.2348,405,St. Joachim Elementary School,75 Concerto Ct,School,2,Multi-Ring,28,No,Yes,12,Yes,43.20836671,-79.98885658
+586881.4749,4789750.5994,406,Fortinos,Main W,Private,1,Multi-Ring,12,No,Yes,1,Yes,43.25555572,-79.92963609
+586539.0256,4789841.555,407,World Gym,Main W,Private ,1,Multi-Ring,16,No,Yes,1,Yes,43.256414,-79.93384
+591904.4969,4790238.7347,408,,10 Wilson Street,ROW,,Hammer Hoop,,No,Yes,2,Yes,43.25935465,-79.86768347
+586282.9111,4789872.1707,409,Apartment,1714 Main Street West,Private ,1,Multi-Ring,20,No,Yes,1,Yes,43.256719,-79.93699
+586248.6818,4789882.6207,410,Apartment,1716 Main Street West,Private ,1,Multi-Ring,12,No,Yes,1,Yes,43.256817,-79.93741
+586743.2,4789746.3069,411,Mondelez International,45 Ewen ,Private,1,Multi-Ring,9,No,Yes,1,Yes,43.255533,-79.93134
+587747.8582,4789965.7083,412,Shoppers Drug Mart,main w and emerson,Private ,1,Multi-Ring,10,No,Yes,1,Yes,43.257392,-79.91893
+588463.1029,4790336.8726,413,St. Paul's Anglican Church,cline n and king w,Private,1,Multi-Ring,6,No,Yes,1,Yes,43.26065,-79.91006
+588698.6104,4790516.1101,414,Westdale United Church,south oval and sterling,Private,1,Multi-Ring,8,No,Yes,1,Yes,43.262236,-79.90713
+589301.2459,4790507.5922,415,Food Basics,paradise s and king w,Private ,1,Multi-Ring,8,No,Yes,1,Yes,43.26208814,-79.89970755
+589312.2781,4790549.562,416,Food Basics,paradise s and king w,Private ,1,Multi-Ring,12,No,Yes,1,Yes,43.26246469,-79.89956484
+589015.5375,4790628.6401,417,TD Canada Trust,938 King Street West,Private,1,Hammer Hoop,4,No,Yes,1,Yes,43.26321174,-79.9032076
+589319.469,4790588.123,418,Pierik's Cycle,840 King Street West,Private,1,Multi-Ring,15,No,Yes,1,Yes,43.262811,-79.89947
+589189.8481,4789950.8533,419,McMaster Innovation Park,175 Longwood South,Private,1,Multi-Ring,8,No,Yes,1,Yes,43.257089,-79.90117
+589195.8982,4789879.1481,420,Natural Resources Canada,longwood s,Private,1,Multi-Ring,18,No,Yes,1,Yes,43.25644272,-79.90110709
+589075.1254,4789846.6032,421,McMaster Automative Resource Centre,200 Longwood Road South,Private ,1,Multi-Ring,18,Yes,Yes,1,Yes,43.256164,-79.9026
+589069.4275,4789847.7502,422,McMaster Automative Resource Centre,200 Longwood Road South,Private ,1,Multi-Ring,5,Yes,Yes,1,Yes,43.256175,-79.90267
+589886.6708,4790245.3719,423,The Hamilton Spectator,44 Frid Street,Private,1,Multi-Ring,12,No,Yes,1,Yes,43.25965777,-79.89253856
+589890.0316,4790256.5935,424,The Hamilton Spectator,44 Frid Street,Private,1,Multi-Ring,6,No,Yes,1,Yes,43.2597584,-79.89249533
+592173.9563,4791866.6774,425,The Royal Hamilton Yacht Club,bay n,Private ,1,Multi-Ring,10,No,No,2,Yes,43.27397794,-79.86409169
+593718.737,4790035.3294,426,Cathy Weaver Elementary School,160 Wentworth Street North,School,1,Multi-Ring,14,No,Yes,3,Yes,43.2573,-79.84537
+593890.9958,4790878.49,427,Eva Rothwell Resource Centre,460 Wentworth Street North,Private,1,Multi-Ring,7,No,Yes,3,Yes,43.2648694,-79.84310443
+592436.3043,4789896.4439,428,Immigrant Women's Centre,rebecca and ferguson n,Private,1,Multi-Ring,5,No,Yes,2,Yes,43.256208,-79.86119
+592502.1821,4789887.7892,429,Olive Branch Christian Centre,195 Rebecca ,Private,1,Multi-Ring,12,No,Yes,2,Yes,43.256122,-79.86038
+592600.9281,4790385.643,430,Wesley Centre -Verral Building,195 Ferguson North,Private ,1,Multi-Ring,16,No,Yes,2,Yes,43.260592,-79.85908
+590699.7307,4786539.7262,431,Tim hortons,lotus and upper james,Private ,1,Multi-Ring,6,No,Yes,8,Yes,43.22619846,-79.88313268
+589945.621,4783943.4183,432,Shoppers,rymal and upper james,Private,1,Multi-Ring,6,No,Yes,8,Yes,43.202914,-79.89284
+589977.4558,4783993.8224,433,Bmo branch,1587 Upper James Street,Private ,1,Multi-Ring,10,No,Yes,8,Yes,43.203364,-79.89244
+591129.0951,4783489.2269,434,Les Chater Family YMCA,356 Rymal Rd E,Private ,3,Multi-Ring,18,No,Yes,7,Yes,43.198683,-79.87835
+594244.6802,4783605.451,435,Rexall Drugstore ,Upper Ottawa and Stone Church,,1,Multi-Ring,6,No,Yes,6,Yes,43.199347,-79.83999
+592917.4818,4787185.6706,436,Big Bear,Fennel and East 22nd,Private ,1,Multi-Ring,4,No,Yes,7,Yes,43.231744,-79.85572
+591388.7539,4790371.3718,437,Swiss Chalet,151 York Boulevard,,1,Hammer Hoop,2,No,Yes,2,Yes,43.26061149,-79.87401451
+591983.6487,4790202.7978,438,Living Rock,26 Wilson Street,,1,Multi-Ring,5,No,Yes,2,Yes,43.25902146,-79.86671446
+591774.793,4789941.4508,439,Commerce Place,1 King Street West,,1,Hammer Hoop,6,No,Yes,2,Yes,43.25669403,-79.86933072
+591695.1674,4789968.3643,440,MacNab Terminal,,,1,Advertising Rack,4,No,Yes,2,Yes,43.25694602,-79.87030705
+591953.0162,4789986.0452,441,LiUNA Tower,45 King William Street,,1,Hammer Hoop,4,No,Yes,2,Yes,43.25707379,-79.86712798
+591972.2802,4789986.0551,442,HAMBRGR,53 King William Street,,1,Hammer Hoop,4,No,Yes,2,Yes,43.25707153,-79.86689069
+591846.6388,4789770.6903,443,YMCA Employment Sercvices,23 Main Street East,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25514793,-79.86847422
+592282.5379,4789734.5728,444,Studio 205,205 King Street East,,1,Hammer Hoop,2,No,Yes,2,Yes,43.25476953,-79.86311114
+592338.1191,4789714.7153,445,Gameopolis,223-229 King Street East,ROW,1,Hammer Hoop,8,No,Yes,2,Yes,43.25458395,-79.86242986
+592435.9,4789674.2768,446,Beautiful Nails Salon,261 King Street East,,1,Hammer Hoop,2,No,Yes,2,Yes,43.2542079,-79.86123226
+592460.1731,4789650.8474,447,Accroutements,264 King Street East,,1,Hammer Hoop,2,No,Yes,2,Yes,43.25399399,-79.86093721
+592617.4127,4789585.9421,448,First Place,360 King Street East,ROW,1,Hammer Hoop,6,No,Yes,3,Yes,43.25339035,-79.85901139
+596500.8646,4788242.2014,450,Special Needs Resource Centre/Mystery Tea Room,1365 Main Street East,ROW,1,Hammer Hoop,4,No,Yes,4,Yes,43.24080583,-79.81141485
+584759.3282,4790932.006,451,,45 King Street Dundas,,1,Hammer Hoop,14,No,Yes,13,Yes,43.26643376,-79.95559443
+584737.2001,4790908.3003,452,Starbucks Dundas,46 King Street Dundas,,1,Hammer Hoop,2,No,Yes,13,Yes,43.26622283,-79.95587069
+584655.0379,4790915.0842,453,RBC Dundas,70 King Street West Dundas,,1,Hammer Hoop,6,No,Yes,13,Yes,43.26629314,-79.95688189
+584617.6093,4790931.1044,454,TD Bank Dundas,82 King Street West Dundas,Private,1,Hammer Hoop,2,No,Yes,13,Yes,43.26644157,-79.95734054
+584531.3999,4790948.2315,455,Dundas Old Post Office / Town Bakery,104 King Street West Dundas,,1,Hammer Hoop,2,No,Yes,13,Yes,43.26660545,-79.95840002
+584129.1214,4791004.6347,456,Dundas Community Centre,"10 Market Street, Dundas",,1,Multi-Ring,8,No,Yes,13,Yes,43.26715828,-79.96334749
+584112.9599,4790841.9494,457,Dundas Community Pool,35 Market Street,,2,Multi-Ring,16,No,Yes,13,Yes,43.2656954,-79.96357146
+586971.628,4789559.9744,458,St Mary's Catholic High School,200 Whitney Road,School,4,Multi-Ring,56,No,Yes,1,Yes,43.25382911,-79.92855571
+584914.6405,4786503.3477,459,Indigo Bookstore,Golf Links Plaza,Private,1,Multi-Ring,14,No,Yes,12,Yes,43.22654419,-79.95436327
+583150.2858,4786584.8522,460,Ancaster Cycle,365 Wilson Street East,Municipal,1,Hammer Hoop,4,No,Yes,12,Yes,43.2274745,-79.97607376
+583171.0978,4786593.1387,461,Tim Hortons,370 Wilson Street East,Municipal,1,Hammer Hoop,2,No,Yes,12,Yes,43.22754681,-79.97581627
+594488.6247,4789841.4249,462,St Ann Catholic Elementary School,15 St. Ann Street,School,1,Multi-Ring,14,No,No,3,Yes,43.25545819,-79.83592003
+594834.7606,4789524.7919,463,Prince of Wales Elementary School,"Somerset and Lottridge
+77 Melrose Ave N",School,1,Multi-Ring,48,No,Yes,3,Yes,43.25256413,-79.83171108
+595736.3972,4788495.6519,464,Memorial School,"1175 Main Street East, Hamilton",School,1,Multi-Ring,8,No,Yes,3,Yes,43.24318503,-79.82078469
+594373.3273,4788733.0374,465,Adelaide Hoodless School,71 Maplewood Ave,School,1,Multi-Ring,14,No,Yes,3,Yes,43.245494,-79.83753
+595579.9345,4789200.3236,466,Holy Name of Jesus Catholic School,181 Belmont Avenue,School,1,Multi-Ring,28,No,Yes,3,Yes,43.2495489,-79.8225893
+592109.4053,4789038.6092,468,Queen Victoria Elementary School,"166 Forest Avenue, Hamilton",School,1,Multi-Ring,48,No,Yes,2,Yes,43.248525,-79.86536
+583129.1841,4786529.0232,470,Village Hair Design,347 Wilson Street East,Municipal,1,Hammer Hoop,2,No,Yes,12,Yes,43.22697418,-79.97634199
+595521.4527,4786729.7279,471,Sherwood Secondary School,"Brucedale and High
+25 High St",School,1,Multi-Ring,10,Yes,Yes,6,Yes,43.227314,-79.82373755
+595153.4194,4785097.6344,473,St Anthony Daniel Elementary School,75 Anson Avenue,School,3,Multi-Ring,42,No,Yes,6,Yes,43.212667,-79.82855
+593444.439,4787609.4329,475,East Mount Park School,155 E 26th Street,School,1,Multi-Ring,14,No,Yes,7,Yes,43.235494,-79.84916
+590530.5983,4790710.3637,476,Srathcona School,"Lamoreaux and Strathcona
+10 Lamoreaux Street",School,1,Multi-Ring,12,No,Yes,1,Yes,43.263767,-79.88453
+590225.4656,4789483.1488,478,St Joseph's Separate School,270 Locke Street South,School,1,Multi-Ring,18,No,Yes,1,Yes,43.252755,-79.88849
+589040.7235,4790673.9844,483,Cootes Paradise Elementary School,Cline N and King W,School,1,Hammer Hoop,24,No,Yes,1,Yes,43.263617,-79.90289
+592361.1287,4791187.5537,485,Bennetto Elementary School,47 Simcoe Street East,School,1,Multi-Ring,70,No,Yes,2,Yes,43.26784094,-79.86189946
+593638.0432,4790044.2381,487,Cathy Wever Elementary School,160 Wentworth Street North,School,1,Multi-Ring,70,No,Yes,3,Yes,43.25739023,-79.84636245
+589901.8159,4789434.0417,488,Earl Kitchener Home and School ,300 Dundurn Street South,School,1,Multi-Ring,14,No,Yes,1,Yes,43.25235156,-79.8924844
+601810.6065,4788864.3364,492,Wild Water Works,680 Waterfront Trail,Private,1,Multi-Ring,24,Yes,Yes,5,Yes,43.24570851,-79.74591571
+592010.6526,4790002.5514,493,Secure Facility - Fire Station No. 1 - Fire Station Employees only,33 John Street North,Municipal,2,Other,8,Yes,Yes,2,Yes,43.25721536,-79.86641527
+581239.6037,4785525.333,494,Lion's Outdoor Pool,263 Jerseyville Road West,Municipal,1,Multi-Ring,8,No,Yes,,Yes,43.21814342,-79.99975464
+587765.0578,4789993.7047,496,Subway,"1335 Main Street West, Hamilton",ROW,1,Hammer Hoop,4,No,Yes,1,Yes,43.25764205,-79.91871367
+587747.5746,4789652.3132,497,101 Broadway City Housing,101 Broadway Avenue,Municipal,1,Hammer Hoop,10,No,Yes,1,Yes,43.25457051,-79.91898341
+588391.9078,4790058.0081,498,Pho Excellent,"1120 Main Street West, Hamilton",ROW,1,Hammer Hoop,4,No,Yes,1,Yes,43.25814772,-79.91098178
+588425.6941,4790281.1814,499,Macneill Baptist Church,"1145 King Street West, Hamilton",Private,1,Hammer Hoop,2,No,Yes,1,Yes,43.260153,-79.91052977
+592340.8505,4791779.4274,500,Hamilton Port Authority,605 James St N,Private,1,Multi-Ring,14,No,No,2,Yes,43.273172,-79.86205
+601011.8965,4785621.5882,501,The Village Restaurant,"31 King Street E, Stoney Creek",ROW,1,Hammer Hoop,2,No,Yes,5,Yes,43.21662277,-79.7563456
+601004.2819,4785607.0704,502,Queenston Stationary,"38 King Street E, Stoney Creek",ROW,1,Hammer Hoop,2,No,Yes,5,Yes,43.21649309,-79.75644198
+601013.8587,4785604.1483,503,Blow Hair Lounge,"40 King St E, Stoney Creek",ROW,1,Hammer Hoop,2,No,Yes,5,Yes,43.2164655,-79.75632464
+601057.4841,4785591.3006,504,Elm Grocer and Deli,"44 King St E, Stoney Creek,",ROW,1,Hammer Hoop,2,No,Yes,5,Yes,43.216344,-79.75579
+601102.0562,4785578.6644,505,Store,"54 King Street E, Stoney Creek",ROW,1,Hammer Hoop,2,No,Yes,5,Yes,43.21622427,-79.75524367
+590762.3342,4786855.4059,506,No Frills,770 Upper James St,ROW,1,Advertising Rack,4,No,Yes,8,Yes,43.229033,-79.88231
+590757.7957,4786830.3536,507,TD Canada Trust,830 Upper James Street,ROW,1,Advertising Rack,4,No,Yes,8,Yes,43.228808,-79.88237
+597287.8874,4774975.7337,508,Tim Hortons,"2651 Hamilton Regional Rd 56, Binbrook",ROW,1,Hammer Hoop,6,No,Yes,11,Yes,43.12126889,-79.80405708
+588676.2494,4790425.2876,509,Pita Pit,"1056 King Street West, Hamilton",ROW,1,Hammer Hoop,4,No,Yes,1,Yes,43.26142095,-79.90742009
+588756.764,4790461.979,510,Bare Wax Bar,"1030 King Street West, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26174181,-79.90642233
+588775.8374,4790481.2896,511,Saigon Restaurant,"1024 King Street West, Hamilton",ROW,1,Hammer Hoop,4,No,Yes,1,Yes,43.26191342,-79.90618426
+588832.5682,4790522.8735,512,Former Bean Bar,"1014 King Street West, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26228111,-79.90547869
+588843.167,4790534.7218,513,Kuma's Candy,"1008 King Street West, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26238653,-79.90534621
+588898.7686,4790542.4997,514,Disc Jockey Entertainers,"990 King Street W, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26245,-79.90466
+588926.1656,4790557.9647,515,Judy Marsales Real Estate,"986 King St W, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.262586,-79.90432
+588976.5172,4790590.1387,516,Westdale Village,952 King Street West,ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26286972,-79.90369452
+588992.537,4790599.6842,517,Former Bumblebean,"948 King St W, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26295377,-79.90349563
+588661.205,4790403.6953,518,King West Books,"1060 King Street West, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26122833,-79.90760889
+588742.2603,4790452.9884,519,Albert Snow Salon,"1038 King Street West, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26166257,-79.90660245
+588931.2376,4790542.592,520,Weil's of Westdale Bakery,"981 King St W, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.262447,-79.90426
+588923.9767,4790539.1646,521,Allure Fitness,"981 King St W, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.262417,-79.90435
+588910.2316,4790534.9858,522,Shoppers Drug Mart - king w,"991 King St W, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.262381,-79.90452
+598113.3255,4787535.4895,524,Mike's Computer Shop - Preliminary Required,287 Queenston Road,ROW,1,Hammer Hoop,6,No,Yes,4,Yes,43.23423546,-79.79168448
+609601.435,4784847.9058,525,Winona Community Centre,255 Winona Road,Municipal,1,Multi-Ring,,No,Yes,10,Yes,43.20845951,-79.65077275
+593533.6654,4789869.586,526,Big Bee Variety,440 Cannon Street East,,1,Hammer Hoop,2,No,Yes,3,Yes,43.25583083,-79.8476778
+591884.7108,4791182.2412,527,Harbour front Entrance ,325 Bay Street,ROW,1,Hammer Hoop,6,No,Yes,2,Yes,43.26785137,-79.86776977
+592258.914,4790712.3639,528,Butcher and the Vegan,61 Barton Street East,ROW,1,Hammer Hoop,6,No,Yes,2,Yes,43.26357538,-79.86323835
+593255.9106,4790356.9266,529,Diamantinos Pizza,341 Barton Street East,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.2602527,-79.85101652
+582872.9794,4786460.2117,530,Fieldcote Memorial Park and Museum ,"64 Sulphur Springs Rd, Ancaster",,1,Multi-Ring,4,No,Yes,12,Yes,43.22638284,-79.97950675
+591738.7826,4789402.6211,531,Pheasant Plucker / Hughson and Augusta,20 Augusta Street,ROW,1,Hammer Hoop,10,No,Yes,2,Yes,43.25184737,-79.86986401
+592057.2598,4789836.1226,532,Mills Hardware,101 King Street East,,1,Hammer Hoop,2,No,Yes,2,Yes,43.25571132,-79.86586899
+586707.1629,4789729.8182,534,Fairweather Brewing,5 Offield Road,ROW,1,Hammer Hoop,10,No,Yes,1,Yes,43.2553887,-79.93178649
+590105.6281,4790052.3881,535,Doctor's Office,160 Dundurn Street,ROW,1,Hammer Hoop,10,No,Yes,1,Yes,43.25789419,-79.88987294
+592006.5299,4790602.6553,536,Green Bar,,,1,Hammer Hoop,2,No,Yes,2,Yes,43.26261855,-79.86636581
+591070.6409,4790791.1203,537,The Village Apartments ,40 Oxford Street,ROW,1,Hammer Hoop,10,No,Yes,1,Yes,43.26442897,-79.87786377
+590827.1919,4790879.5821,538,Zeefloat / Infinity Forge / Del La Sol Yoga Studios,430 York Boulevard,ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26525477,-79.8808483
+593031.8678,4790509.698,539,Hamilton General Hospital,,,1,Multi-Ring,20,Yes,Yes,3,Yes,43.26165578,-79.85375055
+594054.0695,4784017.7968,540,Cecil B. Stirling School,340 Queen Victoria Drive ,School,1,Multi-Ring,14,Yes,Yes,6,Yes,43.20308308,-79.84226546
+594170.8769,4783868.0722,541,St Kateri Tekawitha Catholic School,22 Queensbury Drive ,School,1,Multi-Ring,14,No,Yes,6,Yes,43.20172057,-79.84085346
+592221.3983,4783540.9771,542,Billy Sherring Park ,1530 Upper Sherman Avenue ,Park,3,Multi-Ring,18,No,Yes,7,Yes,43.19901632,-79.86489947
+591927.6689,4782989.887,543,Chappel Estates Park ,30 Wagner Drive,Park,1,Multi-Ring,12,No,Yes,7,Yes,43.19409065,-79.8686058
+591124.0036,4783416.1784,545,Les Chater Family YMCA,356 Rymal Rd E,,2,Multi-Ring,12,No,Yes,7,Yes,43.19802596,-79.8784247
+592046.1996,4790997.5023,546,West Harbour GO Station,,Private,1,Multi-Ring,28,Yes,Yes,2,Yes,43.26616847,-79.86581113
+592051.8886,4790991.462,547,West Harbour GO Station,,,1,Multi-Ring,28,Yes,Yes,2,Yes,43.2661134,-79.86574205
+593102.2925,4790561.2769,548,Hamilton General Hospital,237 Barton Street East,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.26211144,-79.8528743
+593330.4172,4790337.4655,549,"Vavo John's Bar, Cafe, & Restaurant",362 Barton Street East,ROW,1,Hammer Hoop,4,No,Yes,3,Yes,43.26006828,-79.85010202
+593551.2819,4790284.7058,550,Esplanada Cafe and Sports Bar,419 Barton Street East,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.2595659,-79.84739031
+593750.6112,4790199.1502,551,Sign Aids,480 Barton Street East,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.25877089,-79.8449495
+594258.0519,4790035.9639,552,Unused Storefront,619 Barton Street East,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.25723846,-79.83872678
+594382.5898,4789974.5543,553,John Howard Society,654 Barton Street East,ROW,1,Hammer Hoop,4,No,Yes,3,Yes,43.25667001,-79.83720329
+587578.1989,4790108.7646,555,McMaster University - Information Technology Building - South,,School,1,Multi-Ring,24,No,Yes,1,Yes,43.25869968,-79.92099713
+594277.8003,4790029.3238,556,S&H Second Hand Goods,623 Barton Street East,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.25717621,-79.83848466
+592362.2715,4789823.1517,557,Theatre Aquarius,190 King William Street,,1,Hammer Hoop,4,No,Yes,2,Yes,43.25555723,-79.86211419
+592112.1255,4789915.2228,558,Film Works Loft,80 King William Street,,1,Hammer Hoop,2,No,Yes,2,Yes,43.25641675,-79.86517995
+591816.2398,4789879.9679,559,ScotiaBank/Gore Park,12 King Street East,,1,Hammer Hoop,4,No,Yes,2,Yes,43.25613546,-79.86883044
+591840.0676,4789873.13,560,Empty Storefront/Gore Park,,,1,Hammer Hoop,2,No,Yes,2,Yes,43.25607099,-79.86853808
+591875.7255,4789861.0279,561,HSBC/Gore Park,,,1,Hammer Hoop,6,No,Yes,2,Yes,43.25595769,-79.86810088
+591899.7858,4789853.1085,562,Gore Park,46 King Street East,,1,Hammer Hoop,6,No,Yes,2,Yes,43.25588346,-79.86780584
+591948.1126,4789838.1405,563,Burrito Boyz/Gore Park,66 King Street East,,1,Hammer Hoop,4,No,Yes,2,Yes,43.25574281,-79.86721307
+591961.2256,4789834.6296,564,Redchurch/Gore Park,68-70 King Street East,,1,Hammer Hoop,4,No,Yes,2,Yes,43.2557096,-79.86705214
+591982.4323,4789828.4076,565,Gore Park,,,1,Hammer Hoop,6,No,Yes,2,Yes,43.255651,-79.86679196
+594894.9828,4789196.4583,566,Berni Morelli Rec Centre,,,1,Multi-Ring,12,No,Yes,3,Yes,43.24960062,-79.83102588
+594900.9931,4789205.8571,567,Berni Morelli Rec Centre,,,1,Multi-Ring,6,No,Yes,3,Yes,43.24968448,-79.83095024
+594916.572,4789225.8212,568,Berni Morelli Rec Centre,,,1,Multi-Ring,6,No,Yes,3,Yes,43.24986226,-79.83075493
+594930.2934,4789247.2681,569,Berni Morelli Rec Centre,,,1,Multi-Ring,6,No,Yes,3,Yes,43.25005361,-79.83058224
+594943.8754,4789264.7881,570,Berni Morelli Rec Centre,,,1,Multi-Ring,6,No,Yes,3,Yes,43.25020963,-79.83041194
+594963.3911,4789283.8888,571,Berni Morelli Rec Centre,,,1,Multi-Ring,6,No,Yes,3,Yes,43.25037913,-79.83016829
+594955.9357,4789145.8648,572,Jimmy Thompson Memorial Pool,,,1,Multi-Ring,9,No,Yes,3,Yes,43.24913747,-79.8302839
+592036.8803,4789936.9418,573,Multi-Ring Rack decorated with leaves,28 John Street North,,1,Multi-Ring,4,No,Yes,2,Yes,43.25662148,-79.86610317
+591756.4718,4790194.1844,574,York @ MacNab,,Municipal,,Fix It Station,,No,Yes,2,Yes,43.2589716,-79.8695143
+584602.5751,4790835.6576,576,Shawn & Ed Brewery,65 Hatt Street Dundas,ROW,1,Hammer Hoop,10,No,Yes,13,Yes,43.26558394,-79.95754043
+591903.9902,4790306.5765,577,National Bank / Blackbird Studios,121-123 James Street North,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25996549,-79.86767839
+591914.6286,4790341.0011,578,White Elephant,133 James Street North,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.26027411,-79.8675416
+592095.7069,4790892.3363,579,LiUNA Station,360 James Street North,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.26521562,-79.86521881
+591896.663,4789468.8556,580,Canadian Mental Health Association,131 John Street South,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25242444,-79.86790839
+590988.4557,4789226.1265,581,Becker's,119 Herkimer Street,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25034933,-79.87913473
+591056.9172,4789998.3004,582,Doors Metal Bar,54 Hess Street South,ROW,1,Hammer Hoop,6,No,Yes,2,Yes,43.25729291,-79.87816391
+591864.3902,4789786.9214,583,Union Gas Building,20 Hughson Street South,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.2552919,-79.86825286
+589247.2787,4787315.3777,584,Remedy's RX Drug Store,908 Garth Street,,1,Hammer Hoop,2,No,Yes,14,Yes,43.2333549,-79.90088929
+589877.6969,4789309.58,585,Dundurn Market,346 Dundurn Street South,ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.2512339,-79.89280177
+583274.7379,4786934.5632,586,Wilson at Old Dundas Bus Stop,"469 Wilson Street East, Ancaster",ROW,1,Multi-Ring,14,No,Yes,12,Yes,43.23060932,-79.97448869
+589825.5338,4789308.8537,588,Aberdeen Tavern,432 Aberdeen Avenue,ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.25123358,-79.89344437
+590955.6603,4790072.1727,589,Queen and Main Bus Shelter,54 Queen Street South,ROW,1,Hammer Hoop,6,No,Yes,1,Yes,43.25797021,-79.87939898
+591987.9979,4787881.5928,590,Municipal Parking lot @ 584 Upper Wellington,584 Upper Wellington Street,Municipal,1,Hammer Hoop,6,No,Yes,8,Yes,43.23812327,-79.86704833
+585005.5954,4790630.5863,591,Dundas City Hall,"60 Main Street, Dundas",Municipal,1,Multi-Ring,8,No,Yes,13,Yes,43.26369229,-79.95260695
+595617.6239,4788338.1114,592,Cafe Baffico,1375 King Street East,ROW,1,Hammer Hoop,4,No,Yes,3,Yes,43.2417818,-79.82227468
+598496.2832,4782269.8947,594,Maplewood Park - Parks East,150 Second Road West,Park,1,Hammer Hoop,4,No,Yes,9,Yes,43.18678078,-79.78790842
+590634.8509,4790373.054,595,New Life Thrift Store,471 King St. W,ROW,,Hammer Hoop,,,,1,Yes,43.26071768,-79.88330121
+587880.7966,4790586.1345,596,McMaster University - Mills Library - NE Corner,,School,1,Multi-Ring,32,No,Yes,1,Yes,43.26296225,-79.91719347
+587884.929,4790551.2927,597,McMaster University - Mills Library - East,,School,1,Multi-Ring,60,No,Yes,1,Yes,43.26264809,-79.91714812
+587890.3789,4790529.9501,598,McMaster University - Mills Library - SE Corner,,School,1,Multi-Ring,48,No,Yes,1,Yes,43.2624553,-79.91708439
+587844.505,4790601.0039,599,McMaster University - Student Centre - Secure Bike Lockers,,Secure,1,Other,4,Yes,Yes,1,Yes,43.26310035,-79.91763818
+587801.716,4790570.7987,600,McMaster University - Mills Libary - NW Courtyard,,School,1,Multi-Ring,48,No,Yes,1,Yes,43.2628334,-79.91817012
+587832.8282,4790498.2348,601,McMaster University - Divinity College - NE Corner,,School,1,Multi-Ring,16,No,Yes,1,Yes,43.26217648,-79.91779842
+587897.9044,4790497.4422,602,McMaster University - LR Wilson - NW Front,,School,1,Multi-Ring,24,No,Yes,1,Yes,43.26216175,-79.91699687
+587927.0501,4790496.8011,603,McMaster University - LR Wilson - North Entrance,,School,1,Multi-Ring,48,No,Yes,1,Yes,43.26215258,-79.91663793
+587907.1054,4790421.5619,604,McMaster University - Degroote Centre for Learning - North Corner,,School,1,Multi-Ring,14,No,Yes,1,Yes,43.26147752,-79.91689564
+587857.9941,4790408.6031,605,McMaster University - Degroote Center for Learning - NW Corner,,School,1,Multi-Ring,50,No,Yes,1,Yes,43.26136658,-79.9175027
+587921.0961,4790329.4083,606,McMaster University - Degroote Centre for Learning - South Entrance,,School,1,Multi-Ring,42,No,Yes,1,Yes,43.26064623,-79.916738
+589011.5854,4790172.5482,607,Former Abby's Chicken & Seafood,"918 Main Street W, Hamilton",Municipal,1,Hammer Hoop,2,No,Yes,1,Yes,43.259106,-79.90333
+589112.2439,4789801.9946,608,McMaster Automative Resource Centre,200 Longwood Road South,ROW,1,Hammer Hoop,6,No,Yes,1,Yes,43.255758,-79.90215
+589083.6097,4789811.158,609,McMaster Automative Resource Centre,200 Longwood Road South,ROW,1,Multi-Ring,10,No,Yes,1,Yes,43.25584388,-79.90250122
+589155.3148,4790169.4369,610,Westdale Dental Centre,"875 Main St W, Hamilton",ROW,1,Hammer Hoop,4,No,Yes,1,Yes,43.259061,-79.90156
+590207.3975,4790414.7104,611,parking lot,50 Dundurn St S,ROW,1,Advertising Rack,4,No,Yes,1,Yes,43.261144,-79.88856
+590272.5749,4790627.7182,612,Staircase Theatre / Elaine May Theatre,27 Dundurn St N,ROW,1,Advertising Rack,4,No,Yes,1,Yes,43.2630539,-79.88772219
+590382.3352,4790506.4857,613,Curry's Artist Materials / Pizza Hut,"610 King St W, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26194929,-79.88638994
+592470.7779,4792154.8289,614,Scoops Ice Cream,"47 Discovery Dr,",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.27653575,-79.8603861
+592432.6339,4792250.6388,615,Former Sarcoa Restaurant and Bar,"57 Discovery Dr,",ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.277403,-79.86084
+592741.3017,4790535.2456,617,Tim Hortons,"222 Barton Street East, Hamilton",ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.26192159,-79.85732563
+588717.7378,4788742.2943,618,Chedoke Civic Golf Course,"563 Aberdeen Ave, Hamilton",ROW,1,Multi-Ring,8,No,Yes,1,Yes,43.246264,-79.90718
+591799.1097,4789885.816,619,First Ontario Credit Union/ Gore Park,1 James Street South,ROW,1,Hammer Hoop,6,No,Yes,2,Yes,43.25619019,-79.86904047
+592706.9176,4788366.8339,625,Furniture and Mattress Gallery,416 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.24240383,-79.85811402
+592719.1645,4788363.3493,626,Store,422 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.24237095,-79.85796379
+592912.6255,4788312.1279,627,Tim Hortons,473 Concession St,ROW,1,Hammer Hoop,4,No,Yes,7,Yes,43.241886,-79.85559
+593058.7674,4788249.2293,628,Zoetic Theatre,526 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.24130171,-79.85380093
+593126.3306,4788242.857,629,Lucy's Fashions,529 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.241236,-79.85297
+593243.8021,4788210.8851,630,Hamilton Public Library (Concession Branch),565 Concession St,ROW,1,Hammer Hoop,6,No,Yes,7,Yes,43.24093364,-79.8515288
+593187.183,4788211.5999,631,Zarky's Fine Foods,558 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.24094708,-79.85222592
+593159.3136,4788219.2895,632,Law Offices,550 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.24101975,-79.85256781
+593357.0396,4788158.7435,633,Alcatraz Mystery Studios,604 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.24045021,-79.85014318
+593485.1621,4788131.8256,634,Church,625 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.240192,-79.84857
+593512.8875,4788123.4631,635,Church,625 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.24011328,-79.84823
+593639.7753,4788078.1889,636,Juravinksi Hospital,699 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.23968993,-79.84667516
+593906.9525,4787986.4213,637,Bayshore Home Health Care,755 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.23883054,-79.84340073
+593951.1116,4787961.3648,638,Dollar Star,776 Concession Street,ROW,1,Hammer Hoop,4,No,Yes,7,Yes,43.23859946,-79.84286122
+596716.4312,4788546.301,639,Hamilton Public Library - Kenilworth Branch,103 Kenilworth Avenue North,ROW,1,Hammer Hoop,2,No,Yes,4,Yes,43.24351595,-79.80870697
+601064.2952,4785606.3216,640,Apartments,"51 King Street E, Stoney Creek",ROW,1,Hammer Hoop,2,No,Yes,5,Yes,43.21647832,-79.75570341
+595388.7897,4786469.5182,643,Apartments,1185 Fennell Avenue East,Private,1,Multi-Ring,10,No,Yes,6,Yes,43.22498816,-79.82541583
+600166.2908,4787183.525,644,Eastgate Square,75 Centennial Parkway North,Private,1,Advertising Rack,4,No,Yes,5,Yes,43.23079703,-79.76647077
+591875.5902,4789380.2594,645,Gallagher's,169 John Street South,,1,Hammer Hoop,4,No,Yes,2,Yes,43.25162938,-79.86818272
+600253.9098,4787018.3182,646,Eastgate Square,75 Centennial Parkway North,Private,1,Hammer Hoop,6,No,Yes,5,Yes,43.22929809,-79.76542203
+600275.7482,4787011.8899,647,Eastgate Square,75 Centennial Parkway North,Private,1,Hammer Hoop,6,No,Yes,5,Yes,43.22923732,-79.76515433
+600221.0398,4787323.6731,648,Eastgate Square,75 Centennial Parkway North,Private,1,Advertising Rack,4,No,Yes,5,Yes,43.23205146,-79.76577123
+600898.8095,4785647.0494,649,Village Denture Specialist,"2 King Street East, Stoney Creek",ROW,1,Hammer Hoop,2,No,Yes,5,Yes,43.21686711,-79.75773295
+592479.6732,4792113.8988,650,Pier 8,,,1,Hammer Hoop,4,No,Yes,2,Yes,43.27616617,-79.86028337
+592463.4721,4792152.6129,651,Scoops/Williams,47 Discovery Drive,,1,Multi-Ring,14,No,Yes,2,Yes,43.2765167,-79.86047649
+583124.8197,4786476.2206,652,Old Fire Hall Arts Centre,334 Wilson Street East,Municipal,1,Hammer Hoop,4,No,Yes,12,Yes,43.22649927,-79.97640368
+583102.1424,4786460.0966,653,Ancaster Orthodontics,323 Wilson Street East,Municipal,1,Hammer Hoop,2,No,Yes,12,Yes,43.2263566,-79.97668531
+596882.6492,4787139.8423,654,Metro,1900 King Street East,Private,1,Multi-Ring,10,No,Yes,4,Yes,43.23083261,-79.80690713
+591639.6804,4789121.6803,655,St. Jacob's Hospital,50 Charlton Avenue East,Private,1,Multi-Ring,6,No,Yes,2,Yes,43.24933013,-79.87113134
+591674.724,4789058.5715,656,St. Jacob's Hospital,50 Charlton Avenue East,Private,1,Multi-Ring,6,No,Yes,2,Yes,43.2487577,-79.87071023
+593146.7164,4788236.6943,657,Stoneroads Bar And Grill,533 Concession St,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.241178,-79.85272
+593304.0079,4788171.7981,658,Relay Coffee Roasters,573 Concession Street,ROW,1,Multi-Ring,8,No,Yes,7,Yes,43.2405743,-79.85079402
+593493.8512,4788114.9417,659,Unused Storefront,640 Concession Street,,1,Hammer Hoop,2,No,Yes,7,Yes,43.24003892,-79.84846586
+593615.1133,4788071.9028,660,Independent Abilities Group Inc.,672 Concession Street,,1,Hammer Hoop,2,No,Yes,7,Yes,43.2396364,-79.84697992
+593234.0773,4790375.6334,661,Emerald Coffee Co. - Site Visit Complete: WO In,340 Barton Street East,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.26042382,-79.85128231
+596464.5955,4788228.5323,662,Determination Martial Arts,1360 Main Street East,ROW,1,Hammer Hoop,4,No,Yes,4,Yes,43.24068741,-79.81186387
+584899.5201,4790878.447,663,Thirsty Cactus,2 King Street West Dundas,ROW,1,Hammer Hoop,4,,Yes,13,Yes,43.26593578,-79.95387552
+591853.0945,4789547.7696,664,Hamilton GO Centre,36 Hunter St. E,,2,Multi-Ring,28,Yes,Yes,2,Yes,43.25314021,-79.86843186
+591830.8724,4789557.8247,665,Hamilton Go Centre,36 Hunter St East,,2,Multi-Ring,28,No,Yes,2,Yes,43.25323344,-79.8687039
+591940.6137,4790433.7631,666,Centre 3,169 James Street North,,1,Hammer Hoop,2,No,Yes,2,Yes,43.26110607,-79.86720602
+591796.656,4789970.4959,669,Jackson Square,1 James Street North,,1,Hammer Hoop,10,No,Yes,2,Yes,43.25695286,-79.86905658
+591945.3787,4790379.9205,670,Mixed Media,6 Cannon St E (at James),,1,Hammer Hoop,2,No,Yes,2,Yes,43.26062075,-79.86715631
+591948.9768,4790379.1388,671,Mixed Media,6 Cannon St E (at James),,1,Multi-Ring,6,No,Yes,2,Yes,43.26061327,-79.86711212
+591958.6861,4790376.8744,672,The Assembly,6 Cannon St E (at James),,1,Hammer Hoop,6,No,Yes,2,Yes,43.2605917,-79.86699289
+591964.2613,4790375.1545,673,Smalls Coffee,8 Cannon Street East,,1,Hammer Hoop,2,No,Yes,2,Yes,43.26057553,-79.8669245
+591968.4572,4790373.9988,674,The Burnt Tongue,10 Cannon Street East,,1,Hammer Hoop,2,No,Yes,2,Yes,43.26056462,-79.86687301
+591409.9425,4790352.0546,675,Starbucks,151 York Boulevard,,1,Hammer Hoop,2,No,Yes,2,Yes,43.26043501,-79.8737567
+584876.9073,4791063.7416,676,St Paul’s United Church,29 Cross Street,Private,1,Multi-Ring,6,No,Yes,13,Yes,43.26760656,-79.95412554
+596805.5303,4788154.1468,693,Main Cycle,1461 Main Street East,Private,1,Multi-Ring,5,No,Yes,4,Yes,43.23997405,-79.80767859
+590508.7473,4787784.417,694,Mohawk College Secure Bike Parking Facility,135 Fennell Avenue West,School,1,Other,48,Yes,Yes,8,Yes,43.23742737,-79.88527976
+593730.5262,4788014.2636,695,HHS - Juravinski Hospital Secure Bike Parking Facility,711 Concession Street,Private,1,Other,,Yes,Yes,7,Yes,43.23910315,-79.84556851
+591452.8571,4789723.7863,696,City Hall Secure Bike Parking Facility,71 Main Street West,Municipal,1,Other,31,Yes,Yes,2,Yes,43.25477354,-79.87333236
+591767.9172,4790065.3566,697,Jackson Square East Parking Garage Secure Bike Parking,2 King Street West,Private,1,Other,25,Yes,Yes,2,Yes,43.25781038,-79.86939477
+600079.1794,4785744.8052,704,Battlefield House and Battlefield Park,77 King Street West (Stoney Creek),Park,1,Advertising Rack,4,No,Yes,5,Yes,43.2178563,-79.76780422
+597415.8478,4774494.7255,705,Southbrook Park,111 Etherington Crescent,Park,1,Multi-Ring,8,No,No,11,Yes,43.11692195,-79.80256889
+584309.8611,4798477.2987,710,Milgrove Community Park - Please Confirm,855-857 Milgrove Sideroad,Park,1,Multi-Ring,7,No,Yes,15,Yes,43.33441545,-79.95997451
+582447.0551,4793218.1155,711,Johnson Tew Park,20 Medwin Drive,Park,1,Hammer Hoop,14,No,No,13,Yes,43.28727271,-79.98373933
+585010.4486,4788496.5917,713,McMaster Forest,1105 Lower Lions Club Road,School,1,Multi-Ring,8,No,No,12,Yes,43.244479,-79.95287643
+593484.5806,4788695.9179,715,Lifesaver's Park - Green Bicycle Type Rack,Cumberland and Sanford,Park,1,Hammer Hoop,2,No,Yes,3,Yes,43.24527053,-79.8484815
+595926.7115,4789004.1638,725,Crash Landing Music Store,1189 Cannon Street East,ROW,1,Hammer Hoop,2,,Yes,3,Yes,43.24773887,-79.81835253
+596502.7557,4790353.6043,726,Dofasco Headquarters,,ROW,1,Hammer Hoop,6,No,Yes,4,Yes,43.25981403,-79.81102182
+588669.0394,4790408.9901,729,Mixed Media,1060 King Street West,ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26127507,-79.90751153
+597150.9421,4781181.9423,730,Red hill Summit East Oark,50 Bellagio Ave,Municipal,1,Multi-Ring,14,No,No,9,Yes,43.1771603,-79.80465171
+596579.9001,4782262.0911,740,Eramosa Karst Conservation Area,86 Upper Mount Albion Road,,1,Hammer Hoop,6,No,No,9,Yes,43.18695792,-79.8114877
+589668.1126,4784792.6306,741,Spring Rollout - William Connell Park,1086 West 5th Street,Park,1,Multi-Ring,14,No,No,8,Yes,43.21059254,-79.89611742
+589735.6526,4784719.9159,742,William Cornell Park,1086 West 5th Street,Park,1,Multi-Ring,14,No,No,8,Yes,43.20992986,-79.89529791
+589439.8236,4784818.6139,743,William Cornell Park,1086 West 5th Street,Park,1,Multi-Ring,14,No,No,8,Yes,43.21085355,-79.89892311
+587940.9856,4790315.3162,744,McMaster University - Hospital - NE Corner,,School,1,Multi-Ring,112,No,Yes,1,Yes,43.26051703,-79.91649524
+585578.3305,4790720.395,745,Canadian Tire Parkette,,Private,1,Multi-Ring,8,No,Yes,13,Yes,43.26443602,-79.94553723
+582848.0965,4789940.7879,746,Sir William Osler Elementary School,"330 Governor's Road, Dundas",School,1,Multi-Ring,28,No,No,13,Yes,43.25772216,-79.97929005
+582801.2046,4789925.9262,747,Sir William Osler Elementary School,"330 Govenor's Road, Dundas",School,1,Multi-Ring,42,No,No,13,Yes,43.25759351,-79.97986992
+583092.0645,4789991.6838,748,Dundas Valley Secondary School,"310 Governor's Road, Dundas",School,1,Multi-Ring,16,No,Yes,13,Yes,43.25815353,-79.9762771
+583181.3156,4790018.4422,749,Dundas Valley Secondary School,310 Governor's Road,School,1,Bike Corral,24,No,Yes,13,Yes,43.2583846,-79.97517362
+583393.5771,4790061.9166,750,St. Bernadette’s Catholic Elementary,"270 Governor's Road, Dundas",School,1,Multi-Ring,22,No,Yes,13,Yes,43.25875255,-79.97255231
+590275.3576,4790543.4274,751,Tim Hortons / King & Dundurn,624 King Street West,ROW,1,Hammer Hoop,6,No,Yes,1,Yes,43.2622947,-79.88770172
+596661.9067,4788365.2336,752,Plaza @ 45 Kenilworth,45 Kenilworth Avenue North,ROW,1,Hammer Hoop,2,No,Yes,4,Yes,43.24189284,-79.80941017
+592224.9637,4789648.3716,753,"Bike Parking Request: Fit Barre, SOUS BAR",145 King Street East,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25400051,-79.86383473
+592551.7675,4785690.9428,754,Limeridge mall ,999 Upper Wentworth St,,2,Hammer Hoop,4,Yes,Yes,7,Yes,43.218332,-79.86047361
+591644.2575,4790091.9508,755,Roof of Jackson Square,110 King Street West,Municipal,1,Multi-Ring,8,No,Yes,2,Yes,43.25806485,-79.87091358
+592603.1794,4785628.2364,756,Limeridge mall,999 Upper Wentworth St,,1,Multi-Ring,8,No,Yes,7,Yes,43.21776115,-79.85985126
+592506.0452,4785534.3564,757,Limeridge mall ,999 Upper Wentworth St,,2,Hammer Hoop,4,No,Yes,7,Yes,43.21692786,-79.86106269
+592486.8067,4785467.0021,758,Limeridge mall ,999 Upper Wentworth St,,2,Hammer Hoop,4,No,Yes,7,Yes,43.21632383,-79.8613108
+592456.4711,4785723.2394,759,Limeridge Mall,999 Upper Wentworth St,,1,Multi-Ring,4,No,Yes,7,Yes,43.21863444,-79.8616413
+591931.696,4790338.9832,760,Miller Shoes,130 Jamest Street North,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.26025386,-79.86733169
+592102.3214,4789669.378,761,Landmark Place,100 Main Street East,ROW,1,Hammer Hoop,4,No,No,2,Yes,43.25420463,-79.86534182
+594854.2606,4789837.6815,762,Bucko Flooring,779 Barton Street East,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.25537856,-79.83141703
+583191.981,4786650.1776,763,Coach and Lantern,386 Wilson St E.,ROW,1,Hammer Hoop,2,No,Yes,12,Yes,43.22805805,-79.97555055
+583139.9247,4786517.6688,764,Caniche French Bakery,346 Wilson Street East,ROW,1,Hammer Hoop,2,No,Yes,12,Yes,43.22687077,-79.97621146
+583110.0952,4786440.6761,765,Family Physicians,326 Wilson Street E.,ROW,1,Hammer Hoop,4,No,Yes,12,Yes,43.22618087,-79.97659032
+596674.0259,4788197.4595,766,Dr. John Perkins Centre,1429 Main Street East Hamilton,ROW,1,Hammer Hoop,4,No,Yes,4,Yes,43.24038086,-79.80929035
+587058.9256,4790443.717,767,McMaster - Human Resources Building,,School,2,Multi-Ring,20,No,Yes,1,Yes,43.26177545,-79.92734076
+587441.7049,4790583.5402,768,McMaster University - Mary Keyes Residence - East,,School,5,Multi-Ring,40,No,Yes,1,Yes,43.26298997,-79.92260313
+587501.3151,4790621.9199,769,,,School,1,Multi-Ring,14,No,No,1,Yes,43.26332859,-79.92186268
+587476.9952,4790565.738,770,McMaster University - Matthews Hall - NE Courtyard,,School,1,Multi-Ring,8,No,Yes,1,Yes,43.2628256,-79.92217121
+587471.4588,4790572.8996,771,McMaster University - Matthews Hall - NE Courtyard,,School,1,Multi-Ring,8,No,Yes,1,Yes,43.26289072,-79.92223827
+587482.4708,4790511.5963,772,McMaster University - Mary Keyes Residence - East,,School,1,Multi-Ring,20,No,No,1,Yes,43.26233753,-79.92211235
+587608.9252,4790531.9253,773,McMaster University - Burke Science Building - North,,School,1,Multi-Ring,71,No,Yes,1,Yes,43.26250586,-79.92055132
+587709.7273,4790568.7416,774,McMaster University - Green Commons,,School,1,Multi-Ring,96,No,Yes,1,Yes,43.26282559,-79.91930367
+587762.0196,4790598.1742,775,McMaster University - Student Centre,,School,1,Multi-Ring,24,No,Yes,1,Yes,43.26308449,-79.91865478
+587745.6388,4790692.6111,776,McMaster University - Edwards Hall - SE Corner,,School,1,Multi-Ring,48,No,Yes,1,Yes,43.26393662,-79.91884153
+587761.5702,4790725.7541,777,McMaster University - Secure Facility - Chester New Hall,,Secure,1,Other,96,No,Yes,1,Yes,43.26423315,-79.91863999
+587796.478,4790754.8715,778,McMaster University - Togo Salmon Hall - North,,School,1,Multi-Ring,72,No,Yes,1,Yes,43.26449123,-79.9182053
+587941.5479,4790670.8259,779,McMaster University - Degroote School of Business,,School,1,Multi-Ring,24,No,Yes,1,Yes,43.26371765,-79.91643154
+587933.8979,4790760.2964,780,McMaster University - McInnes Library,,School,1,Multi-Ring,64,No,Yes,1,Yes,43.26452405,-79.9165115
+587988.6268,4790781.539,781,McMaster University - David Braley Athletic Centre,,,1,Multi-Ring,112,No,Yes,1,Yes,43.26470891,-79.91583387
+588033.1808,4790788.3628,782,McMaster University - Ivor Wynn Centre,,School,1,Multi-Ring,32,No,Yes,1,Yes,43.26476514,-79.9152839
+588061.9477,4790867.4365,783,McMaster University - Ivor Wynn Centre,,School,1,Multi-Ring,30,No,No,1,Yes,43.26547368,-79.91491686
+588119.8934,4790997.173,784,McMaster University - Alumni Field - East,,School,1,Multi-Ring,32,No,Yes,1,Yes,43.26663493,-79.91418222
+588126.0804,4791106.9255,785,McMaster University - High Altitude Tower,,School,1,Multi-Ring,8,No,Yes,1,Yes,43.26762231,-79.91408843
+587770.974,4790916.7813,786,,,,1,Multi-Ring,16,No,Yes,1,Yes,43.26595189,-79.91849369
+587737.8976,4790873.4665,787,,,School,1,Multi-Ring,52,Yes,Yes,1,Yes,43.26556577,-79.91890808
+587721.408,4790909.8069,788,,,School,1,Multi-Ring,8,No,Yes,1,Yes,43.26589487,-79.91910544
+587693.661,4790910.6429,789,McMaster University - Brandon Hall,,School,1,Multi-Ring,24,No,Yes,1,Yes,43.26590562,-79.91944714
+587719.459,4790821.5518,790,,,School,1,Multi-Ring,14,No,Yes,1,Yes,43.26510053,-79.91914351
+587786.0217,4790304.1533,791,McMaster University - Hospital - Secure Bike Locker,,Secure,1,Other,2,Yes,Yes,1,Yes,43.2604346,-79.91840596
+584586.7918,4791267.1634,792,Dundas Central Elementary,73 Melville Street,School,1,Multi-Ring,36,No,No,13,Yes,43.26947063,-79.95766858
+591798.253,4790277.2553,793,York Boulevard Parkade - Secure Bike Cage,28 York Boulevard,Secure,1,Other,43,Yes,Yes,2,Yes,43.2597144,-79.86898579
+591529.3093,4789956.8441,796,Summer's Lane - Secure Bike Parking,80 Summer's Lane,Secure,1,Other,16,Yes,Yes,2,Yes,43.25686247,-79.87235196
+591549.8865,4788978.2219,798,St. Joseph's Hospital - Secure Bike Parking,50 Charlton Avenue East,Private,1,Other,12,Yes,Yes,2,Yes,43.24804949,-79.87226109
+593045.1562,4790521.1495,799,Hamilton General Hospital -Secure Bike Parking,237 Barton Street East,Private,1,Other,30,Yes,Yes,3,Yes,43.26175723,-79.85358492
+592565.5474,4791357.7147,803,St. Lawrence Catholic Elementary,88 Macaulay East,School,1,Multi-Ring,98,No,Yes,2,Yes,43.2693478,-79.85935243
+592426.6437,4791400.1684,804,North Hamilton Health Centre,438 Hughson Street,Private,1,Multi-Ring,12,No,Yes,2,Yes,43.26974706,-79.86105662
+592010.4378,4791813.28,805,Leander Boat Club,50 Leander Drive,Private,1,Multi-Ring,12,No,No,2,Yes,43.2735172,-79.86611535
+591138.9139,4784092.368,806,St. Marguerite d'Youville Elementary School,20 Bonaparte Way,School,1,Multi-Ring,18,No,Yes,7,Yes,43.20411192,-79.87812967
+590494.0933,4784636.9048,807,Walker Pool,60 Dicenzo Drive,,1,Multi-Ring,12,No,Yes,8,Yes,43.20909197,-79.88597636
+589549.3886,4785541.0102,808,James MacDonald Elementary School,200 Chester Avenue,School,2,Multi-Ring,22,No,Yes,8,Yes,43.21734435,-79.89745735
+589492.2194,4785775.7444,809,Gourley Park ,,Park,1,Multi-Ring,12,No,Yes,8,Yes,43.21946447,-79.89812303
+587719.8232,4786191.1113,810,Gordon Price Elementary School,11 Guildwood Drive,School,3,Multi-Ring,30,No,Yes,14,Yes,43.22341216,-79.91987588
+587640.2385,4787923.7701,811,Chedoke Twin Pad Arena,91 Chedmac Drive ,,2,Multi-Ring,16,Yes,Yes,14,Yes,43.23902075,-79.92058037
+587202.9096,4788170.4376,812,Mountview Elementary School,59 Karen Crescent,School,3,Multi-Ring,30,No,Yes,14,Yes,43.24129223,-79.92592678
+592092.7911,4790738.0176,813,The Barton General,10 Barton Street East,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.26382666,-79.86528054
+591193.2327,4790151.7853,814,Tim Hortons,235 King Street West Hamilton,ROW,1,Hammer Hoop,4,No,Yes,2,Yes,43.25865825,-79.87645939
+591051.4131,4790219.594,815,Ark and Anchor Cafe,300 King Street West,ROW,1,Hammer Hoop,2,No,Yes,2,Yes,43.25928587,-79.87819513
+593389.0836,4789466.4011,816,King Street Outreach / Carlton Tavern,649-657 King Street East,ROW,1,Hammer Hoop,6,No,Yes,3,Yes,43.25221893,-79.84952702
+594013.5498,4789387.3085,817,Limin Coconut / Laundromat,829.5 King Street East,ROW,1,Hammer Hoop,2,No,Yes,3,Yes,43.25142925,-79.84184916
+588795.9777,4790502.492,818,,1020 King Street West - Westdale,ROW,1,Hammer Hoop,2,No,Yes,1,Yes,43.26210193,-79.90593273
+589781.8315,4798480.8858,819,Waterdown Memorial Hall,315 Dundas Street East,ROW,1,Hammer Hoop,4,No,Yes,15,Yes,43.33381409,-79.89248506
+593469.0746,4788124.9993,821,Colosseum Apartments,620 Concession Street,ROW,1,Hammer Hoop,2,No,Yes,7,Yes,43.24013254,-79.84876926
+590352.1351,4789563.9648,822,St. John the Evangelist Anglican Church,320 Charlton Avenue West,ROW,1,Hammer Hoop,4,No,Yes,1,Yes,43.25346741,-79.88691656
+592726.7313,4790136.8903,823,Former Wellington Arms,222 Cannon Street East,,1,Hammer Hoop,4,No,Yes,2,Yes,43.25833704,-79.85757218
+593096.9008,4791521.4576,824,Collective Arts Brewery,207 Burlington Street East,ROW,1,Hammer Hoop,10,No,Yes,2,Yes,43.27075648,-79.85277837
+593054.0739,4791534.903,825,Collective Arts Brewery,207 Burlington Street East,,1,Hammer Hoop,2,No,Yes,2,Yes,43.27088282,-79.85330375
+596728.1288,4788176.7082,827,Ward 4 Cafe,1441 Main Street East,ROW,1,Hammer Hoop,4,,,4,Yes,43.2401871,-79.80862776
+588695.5799,4788609.2138,829,Top of Chedoke Stairs,Site Visit Required ,Municipal,3,Hammer Hoop,6,No,Yes,14,Yes,43.24506848,-79.90747431
+599265.4681,4789041.7296,831,Pioneer Gas Station,545 Woodward Avenue,Private,1,Advertising Rack,4,No,Yes,4,Yes,43.24764488,-79.77722721
+597580.9252,4787672.4101,832,Rexall Pharmacy,126 Queenston Road,Private,1,Multi-Ring,8,No,Yes,4,Yes,43.23553718,-79.79821561
+594840.7489,4789356.6017,833,Bernie Custis Secondary School,1055 King Street East,School,1,Multi-Ring,42,No,Yes,3,Yes,43.25104919,-79.83166627
+591862.4682,4790303.5735,836,Nique Restaurant,30 Vine Street,ROW,1,Hammer Hoop,4,,Yes,2,Yes,43.25994351,-79.86819038
+590844.6048,4790873.5355,837,De La Sol Yoga,430 York Boulevard,ROW,1,Hammer Hoop,2,,,1,Yes,43.26519824,-79.88063478
+598045.511,4783041.7177,844,Valley Park Tennis Courts,,Municipal,1,Multi-Ring,10,No,Yes,9,Yes,43.19378797,-79.7933175
+593910.3362,4789056.134,881,Aboriginal Health Centre,678 Main Street East,Private,1,Multi-Ring,6,No,Yes,3,Yes,43.2484606,-79.84317683
+582519.22,4805315.1566,882,Carlisle Community Centre and Library,1496 Centre Road,Park,1,Multi-Ring,14,No,No,15,Yes,43.396176,-79.98102995
+584132.2176,4790877.9824,886,J.L. Grightmire Arena,35 Market Street South,Municipal,1,Hammer Hoop,8,No,Yes,13,Yes,43.26601766,-79.9633287
+585210.502,4791581.9621,887,Dundas Driving Park - Tennis Club,,Private,1,Multi-Ring,8,No,No,,Yes,43.27223453,-79.94993537
+585910.0666,4791212.4369,888,Volunteer Field,"Off of King Street East, Dundas",Municipal,1,Multi-Ring,8,No,Yes,13,Yes,43.26882819,-79.94137361
+581561.11,4804343.7275,889,Courtcliffe Park,15,Municipal,1,Multi-Ring,6,No,No,15,Yes,43.38753494,-79.99300397
+582443.7027,4793259.3014,890,Johnson Tew Park,20 Medwin Drive,Municipal,1,Hammer Hoop,14,No,No,13,Yes,43.28764389,-79.98377447
+589030.3499,4798777.1066,891,Waterdown Memorial Park,"200 Hamilton Street North, Waterdown",Municipal,1,Hammer Hoop,6,No,Yes,15,Yes,43.33657032,-79.90170531
+583116.3717,4786338.1874,892,Ancaster Library,300 Wilson Street East,Municipal,1,Multi-Ring,16,No,Yes,,Yes,43.22525744,-79.97652848
+583206.012,4786262.3655,893,Ancaster Tennis Club,,Municipal,1,Multi-Ring,8,No,No,,Yes,43.22456492,-79.97543628
+588779.59,4790831.2058,896,Churchill Park at Ravine River Road,145 Cline,Park,1,Hammer Hoop,6,No,No,1,Yes,43.26506328,-79.90608162
+592818.369,4791673.1331,897,Eastwood Arena & Park,111 Burlington Street East,Park,1,Multi-Ring,12,Yes,Yes,2,Yes,43.27215636,-79.85618444
+592172.8293,4790363.9532,901,McClaren Park,160 John Street North,Park,1,Multi-Ring,6,No,Yes,2,Yes,43.26044921,-79.86435714
+586462.1967,4791681.2068,905,Olympic Arena,70 Olympic Drive,Municipal,1,Multi-Ring,14,No,Yes,13,Yes,43.27298541,-79.93449752
+588576.6711,4790906.5443,906,Hamilton Aviary,85 Oak Knoll Drive,Municipal,1,Hammer Hoop,12,No,Yes,1,Yes,43.26576544,-79.90856937
+592058.9816,4789992.7078,907,John and Rebecca Park,76 John Street,Park,1,Hammer Hoop,6,No,Yes,2,Yes,43.25712084,-79.86582161
+592094.7551,4790020.2066,908,John and Rebecca Park,76 John Street North,Park,1,Hammer Hoop,6,No,Yes,2,Yes,43.25736403,-79.86537637
+592100.1602,4789966.9039,909,John and Rebecca Park,76 John Street North,Park,1,Hammer Hoop,6,No,Yes,2,Yes,43.25688349,-79.8653187
+592139.1404,4789998.7862,910,John and Rebecca Park,76 John Street North,Park,1,Hammer Hoop,6,No,Yes,2,Yes,43.25716576,-79.86483322
+594864.8093,4788039.3116,911,Gage Park/Rosedale Tennis Club,,Park,1,Hammer Hoop,10,No,Yes,3,Yes,43.23918683,-79.83159664
+597915.5252,4787792.2028,912,Parkdale Arena/Parkdale Park/Parkdale Pool,,Park,1,Multi-Ring,16,No,Yes,4,Yes,43.23657228,-79.79407438
