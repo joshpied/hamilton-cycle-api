@@ -1,0 +1,445 @@
+{
+  "type": "FeatureCollection",
+  "name": "Cafes",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cafe-domestiique-dundas",
+        "name": "Cafe Domestiique",
+        "url": "https://cafedomestiique.com/coffee-orders/",
+        "image_url": "https://cafedomestiique.com/wp-content/uploads/2020/07/Domestique_II_only.png",
+        "rating": 5,
+        "address": ["102 King St W", "Dundas, ON L9H 1T9", "Canada"],
+        "phone": "+1 437-241-2453",
+        "latitude": 43.24768,
+        "longitude": -79.81792
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.81792, 43.24768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cafe-carolinian-cayuga",
+        "name": "The Carolinian Cafe",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g2044824-d14172469-Reviews-Carolinian_Cafe-Cayuga_Haldimand_Ontario.html#REVIEWS",
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-p/19/1b/25/2d/exterior-and-interior.jpg",
+        "rating": 5,
+        "address": ["5 Cayuga St N", "Cayuga, ON N0A 1E0", "Canada"],
+        "phone": "+1 437-241-2453",
+        "latitude": 42.94999,
+        "longitude": -79.8586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.8586, 42.94999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cannon-coffee-hamilton",
+        "name": "Cannon Coffee",
+        "url": "https://www.yelp.com/biz/cannon-coffee-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PL7hOnAAbrs85YizNRXSNw/o.jpg",
+        "rating": 4.5,
+        "address": ["179 Ottawa Street N", "Hamilton, ON L8H 3Z4", "Canada"],
+        "phone": "+1 289-700-0088",
+        "latitude": 43.24768,
+        "longitude": -79.81792
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.81792, 43.24768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "durand-coffee-hamilton-2",
+        "name": "Durand Coffee",
+        "url": "https://www.yelp.com/biz/durand-coffee-hamilton-2?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Y7eA2s8s7Ku9POrEvPSbVw/o.jpg",
+        "rating": 4.5,
+        "address": ["142 Charlton Avenue W", "Hamilton, ON L8P", "Canada"],
+        "phone": "+1 905-393-9150",
+        "latitude": 43.2514262245999,
+        "longitude": -79.8788586258888
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.8788586258888, 43.2514262245999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "panini-and-ice-cream-hamilton-2",
+        "name": "Panini and Ice cream",
+        "url": "https://www.yelp.com/biz/panini-and-ice-cream-hamilton-2?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zi1AnGvepZBeMtqeQoV7qA/o.jpg",
+        "rating": 4,
+        "address": ["1505 Main Street E", "Hamilton, ON L8K 1E1", "Canada"],
+        "phone": "+1 289-659-8370",
+        "latitude": 43.2394087,
+        "longitude": -79.8051756
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.8051756, 43.2394087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "smalls-coffee-hamilton",
+        "name": "Smalls Coffee",
+        "url": "https://www.yelp.com/biz/smalls-coffee-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ArNKebeitDPDtJRcvpjlKQ/o.jpg",
+        "rating": 4.5,
+        "address": ["8 Cannon Street E", "Hamilton, ON L8L 1Z5", "Canada"],
+        "phone": "",
+        "latitude": 43.2605099,
+        "longitude": -79.86695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.86695, 43.2605099]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ark-and-anchor-hamilton",
+        "name": "Ark and Anchor",
+        "url": "https://www.yelp.com/biz/ark-and-anchor-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/J-ohPx5Qx-lnMudGXWBnHg/o.jpg",
+        "rating": 4,
+        "address": ["300 King Street W", "Hamilton, ON L8P 1B1", "Canada"],
+        "phone": "",
+        "latitude": 43.2595,
+        "longitude": -79.87812
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.87812, 43.2595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paisley-hamilton",
+        "name": "Paisley",
+        "url": "https://www.yelp.com/biz/paisley-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Df9jvjgZvqKRkTziyGi9_w/o.jpg",
+        "rating": 3.5,
+        "address": ["1020 King Street W", "Hamilton, ON L8S 1A1", "Canada"],
+        "phone": "+1 905-777-8100",
+        "latitude": 43.262259810123,
+        "longitude": -79.905870365139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.905870365139, 43.262259810123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "detour-cafe-dundas",
+        "name": "Detour Cafe",
+        "url": "https://www.yelp.com/biz/detour-cafe-dundas?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a3kNsQhmPrZi6vWdpOS0gw/o.jpg",
+        "rating": 4,
+        "address": ["41 King Street W", "Dundas, ON L9H 1T7", "Canada"],
+        "phone": "+1 289-238-8360",
+        "latitude": 43.26653,
+        "longitude": -79.95534
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.95534, 43.26653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ds-cafe-bubble-tea-hamilton",
+        "name": "D's Cafe Bubble Tea",
+        "url": "https://www.yelp.com/biz/ds-cafe-bubble-tea-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ngLm-0MwbqzwDMXjKZqyBA/o.jpg",
+        "rating": 4,
+        "address": [
+          "94 Cannon Street W",
+          "Unit 2",
+          "Hamilton, ON L8R 2B6",
+          "Canada"
+        ],
+        "phone": "+1 905-540-4107",
+        "latitude": 43.26193,
+        "longitude": -79.87164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.87164, 43.26193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "my-dogs-cafe-and-bar-hamilton",
+        "name": "My Dog's Cafe & Bar",
+        "url": "https://www.yelp.com/biz/my-dogs-cafe-and-bar-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lk_F8RsaHq5znkcVrVlKOA/o.jpg",
+        "rating": 5,
+        "address": ["229 Locke Street S", "Hamilton, ON L8P", "Canada"],
+        "phone": "+1 905-570-0770",
+        "latitude": 43.25383,
+        "longitude": -79.88605
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.88605, 43.25383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "munchies-coffee-house-and-barkery-hamilton",
+        "name": "Munchies Coffee House & BARKery",
+        "url": "https://www.yelp.com/biz/munchies-coffee-house-and-barkery-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gBuWMoAnDUeOUO3V4X7PxQ/o.jpg",
+        "rating": 3.5,
+        "address": [
+          "1000 Upper Gage Avenue",
+          "Unit 4",
+          "Hamilton, ON L8V 4R5",
+          "Canada"
+        ],
+        "phone": "+1 905-389-6067",
+        "latitude": 43.2137489,
+        "longitude": -79.8454895
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.8454895, 43.2137489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mulberry-coffeehouse-hamilton-2",
+        "name": "Mulberry Coffeehouse",
+        "url": "https://www.yelp.com/biz/mulberry-coffeehouse-hamilton-2?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MlTUR16niJX1HHEmrZrAvg/o.jpg",
+        "rating": 4,
+        "address": ["193 James Street N", "Hamilton, ON L8R 2L2", "Canada"],
+        "phone": "+1 905-963-1365",
+        "latitude": 43.26183,
+        "longitude": -79.86699
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.86699, 43.26183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "redchurch-cafe-gallery-hamilton",
+        "name": "Redchurch Cafe + Gallery",
+        "url": "https://www.yelp.com/biz/redchurch-cafe-gallery-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mGDa0VCJUammRYVi3vkj8A/o.jpg",
+        "rating": 4.5,
+        "address": ["68 King Street E", "Hamilton, ON L8N 1A6", "Canada"],
+        "phone": "+1 905-407-0459",
+        "latitude": 43.25551,
+        "longitude": -79.86725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.86725, 43.25551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cafe-oranje-hamilton",
+        "name": "Cafe Oranje",
+        "url": "https://www.yelp.com/biz/cafe-oranje-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/buTHPwanhaiTmZjJTP32xg/o.jpg",
+        "rating": 4,
+        "address": ["312 King Street E", "Hamilton, ON L8N 1C2", "Canada"],
+        "phone": "+1 905-521-0551",
+        "latitude": 43.2537566,
+        "longitude": -79.8600414
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.8600414, 43.2537566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "williams-fresh-cafe-hamilton",
+        "name": "Williams Fresh Cafe",
+        "url": "https://www.yelp.com/biz/williams-fresh-cafe-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i_El_0rTMUgBD1jxqfcJJw/o.jpg",
+        "rating": 3,
+        "address": ["47 Discovery Drive", "Hamilton, ON L8L 8K4", "Canada"],
+        "phone": "+1 905-522-5886",
+        "latitude": 43.2764873,
+        "longitude": -79.860838
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.860838, 43.2764873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "copper-kettle-cafe-waterdown-2",
+        "name": "Copper Kettle Cafe",
+        "url": "https://www.yelp.com/biz/copper-kettle-cafe-waterdown-2?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jTpi0oRoV3nDsrKhWm5lmw/o.jpg",
+        "rating": 4.5,
+        "address": [
+          "312 Dundas Street E",
+          "Unit 4",
+          "Waterdown, ON L0R 2H0",
+          "Canada"
+        ],
+        "phone": "+1 905-690-3696",
+        "latitude": 43.3334395777172,
+        "longitude": -79.892609397238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.892609397238, 43.3334395777172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tamp-coffee-co-burlington",
+        "name": "Tamp Coffee Co",
+        "url": "https://www.yelp.com/biz/tamp-coffee-co-burlington?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q46mfzebG4OQF8nhlB-LcA/o.jpg",
+        "rating": 4,
+        "address": [
+          "2049 Pine Street",
+          "Unit 65",
+          "Burlington, ON L7R 1E9",
+          "Canada"
+        ],
+        "phone": "+1 416-917-5745",
+        "latitude": 43.326103,
+        "longitude": -79.795406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.795406, 43.326103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "salty-espresso-hamilton",
+        "name": "Salty Espresso",
+        "url": "https://www.yelp.com/biz/salty-espresso-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sskhWsDN9jGg6jxu2TqOtw/o.jpg",
+        "rating": 4.5,
+        "address": ["175 John Street S", "Hamilton, ON L8N 2C5", "Canada"],
+        "phone": "+1 905-521-0222",
+        "latitude": 43.25133,
+        "longitude": -79.86812
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.86812, 43.25133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "williams-fresh-cafe-hamilton-8",
+        "name": "Williams Fresh Cafe",
+        "url": "https://www.yelp.com/biz/williams-fresh-cafe-hamilton-8?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kv7piJ1C_MyS5g8UZqhNfg/o.jpg",
+        "rating": 3,
+        "address": [
+          "1309 Main Street W",
+          "Unit A-2",
+          "Hamilton, ON L8S 1C5",
+          "Canada"
+        ],
+        "phone": "+1 905-522-2636",
+        "latitude": 43.25738,
+        "longitude": -79.9180499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.9180499, 43.25738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "emerald-coffee-hamilton",
+        "name": "Emerald Coffee",
+        "url": "https://www.yelp.com/biz/emerald-coffee-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3a0XVjXLrHTaAfjX4tktog/o.jpg",
+        "rating": 5,
+        "address": ["340 Barton Street East", "Hamilton, ON L8L 2X7", "Canada"],
+        "phone": "",
+        "latitude": 43.26029,
+        "longitude": -79.85115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.85115, 43.26029]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pane-fresco-burlington",
+        "name": "Pane Fresco",
+        "url": "https://www.yelp.com/biz/pane-fresco-burlington?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EbFBD_r97Y7kciJ1nIp7OA/o.jpg",
+        "rating": 5,
+        "address": ["414 Locust Street", "Burlington, ON L7S 2J1", "Canada"],
+        "phone": "+1 905-333-3388",
+        "latitude": 43.32405,
+        "longitude": -79.79822
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.79822, 43.32405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "relay-coffee-roasters-hamilton-3",
+        "name": "Relay Coffee Roasters",
+        "url": "https://www.yelp.com/biz/relay-coffee-roasters-hamilton-3?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7vKXGHGwbvNr2W_UuNpMQA/o.jpg",
+        "rating": 3.5,
+        "address": ["27 King William Street", "Hamilton, ON L8R 1A1", "Canada"],
+        "phone": "+1 905-769-3213",
+        "latitude": 43.257503,
+        "longitude": -79.867776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.867776, 43.257503]
+      }
+    }
+  ]
+}

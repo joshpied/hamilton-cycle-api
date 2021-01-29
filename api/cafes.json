@@ -1,0 +1,940 @@
+{
+  "cafes": [
+    {
+      "id": "domestiique",
+      "alias": "cafe-domestiique-dundas",
+      "name": "Cafe Domestiique",
+      "image_url": "https://cafedomestiique.com/wp-content/uploads/2020/07/Domestique_II_only.png",
+      "is_closed": false,
+      "url": "https://cafedomestiique.com/coffee-orders/",
+      "review_count": 103,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 5,
+      "coordinates": {
+        "latitude": 43.24768,
+        "longitude": -79.81792
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "102 King St W",
+        "address2": "",
+        "address3": "",
+        "city": "Dundas",
+        "zip_code": "L9H 1T9",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "102 King St W",
+          "Dundas, ON L9H 1T9",
+          "Canada"
+        ]
+      },
+      "phone": "+14372412453",
+      "display_phone": "+1 437-241-2453"
+    },
+    {
+      "id": "carolinian",
+      "alias": "cafe-carolinian-cayuga",
+      "name": "The Carolinian Cafe",
+      "image_url": "https://media-cdn.tripadvisor.com/media/photo-p/19/1b/25/2d/exterior-and-interior.jpg",
+      "is_closed": false,
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g2044824-d14172469-Reviews-Carolinian_Cafe-Cayuga_Haldimand_Ontario.html#REVIEWS",
+      "review_count": 103,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 5,
+      "coordinates": {
+        "latitude":42.94999,
+        "longitude": -79.85860
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "5 Cayuga St N",
+        "address2": "",
+        "address3": "",
+        "city": "Cayuga",
+        "zip_code": "N0A 1E0",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "5 Cayuga St N", 
+          "Cayuga, ON N0A 1E0",
+          "Canada"
+        ]
+      },
+      "phone": "+14372412453",
+      "display_phone": "+1 437-241-2453"
+    },
+    {
+      "id": "JS8Jsxj5TFo2g3PAAfpTCQ",
+      "alias": "cannon-coffee-hamilton",
+      "name": "Cannon Coffee",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PL7hOnAAbrs85YizNRXSNw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/cannon-coffee-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 103,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 43.24768,
+        "longitude": -79.81792
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "179 Ottawa Street N",
+        "address2": "",
+        "address3": "",
+        "city": "Hamilton",
+        "zip_code": "L8H 3Z4",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "179 Ottawa Street N",
+          "Hamilton, ON L8H 3Z4",
+          "Canada"
+        ]
+      },
+      "phone": "+12897000088",
+      "display_phone": "+1 289-700-0088",
+      "distance": 3730.7114317980727
+    },
+    {
+      "id": "-1H5kUvew0zbE3F4xD0WHA",
+      "alias": "durand-coffee-hamilton-2",
+      "name": "Durand Coffee",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Y7eA2s8s7Ku9POrEvPSbVw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/durand-coffee-hamilton-2?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 23,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 43.2514262245999,
+        "longitude": -79.8788586258888
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "142 Charlton Avenue W",
+        "address2": "",
+        "address3": "",
+        "city": "Hamilton",
+        "zip_code": "L8P",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "142 Charlton Avenue W",
+          "Hamilton, ON L8P",
+          "Canada"
+        ]
+      },
+      "phone": "+19053939150",
+      "display_phone": "+1 905-393-9150",
+      "distance": 1909.629069798647
+    },
+    {
+      "id": "LGACVGFFxRxxijtFpWK-Sg",
+      "alias": "panini-and-ice-cream-hamilton-2",
+      "name": "Panini and Ice cream",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zi1AnGvepZBeMtqeQoV7qA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/panini-and-ice-cream-hamilton-2?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 21,
+      "categories": [
+        {
+          "alias": "icecream",
+          "title": "Ice Cream & Frozen Yogurt"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 43.2394087,
+        "longitude": -79.8051756
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "1505 Main Street E",
+        "address2": null,
+        "address3": "",
+        "city": "Hamilton",
+        "zip_code": "L8K 1E1",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "1505 Main Street E",
+          "Hamilton, ON L8K 1E1",
+          "Canada"
+        ]
+      },
+      "phone": "+12896598370",
+      "display_phone": "+1 289-659-8370",
+      "distance": 4639.11933353789
+    },
+    {
+      "id": "hSnCy4Ko5F0De0aIXlaNkA",
+      "alias": "smalls-coffee-hamilton",
+      "name": "Smalls Coffee",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ArNKebeitDPDtJRcvpjlKQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/smalls-coffee-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 10,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 43.2605099,
+        "longitude": -79.86695
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "8 Cannon Street E",
+        "address2": null,
+        "address3": "",
+        "city": "Hamilton",
+        "zip_code": "L8L 1Z5",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "8 Cannon Street E",
+          "Hamilton, ON L8L 1Z5",
+          "Canada"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 2404.546737145407
+    },
+    {
+      "id": "BcOccyfjH_pfu8Z871iSEQ",
+      "alias": "ark-and-anchor-hamilton",
+      "name": "Ark and Anchor",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/J-ohPx5Qx-lnMudGXWBnHg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ark-and-anchor-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 15,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 43.2595,
+        "longitude": -79.87812
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "300 King Street W",
+        "address2": "",
+        "address3": "",
+        "city": "Hamilton",
+        "zip_code": "L8P 1B1",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "300 King Street W",
+          "Hamilton, ON L8P 1B1",
+          "Canada"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 2585.257080586335
+    },
+    {
+      "id": "19uU36mwCKEuy96N0KzzQA",
+      "alias": "paisley-hamilton",
+      "name": "Paisley",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Df9jvjgZvqKRkTziyGi9_w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/paisley-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 21,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 43.262259810123,
+        "longitude": -79.905870365139
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "1020 King Street W",
+        "address2": "",
+        "address3": "",
+        "city": "Hamilton",
+        "zip_code": "L8S 1A1",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "1020 King Street W",
+          "Hamilton, ON L8S 1A1",
+          "Canada"
+        ]
+      },
+      "phone": "+19057778100",
+      "display_phone": "+1 905-777-8100",
+      "distance": 4360.688833769468
+    },
+    {
+      "id": "G-V7PFbTMz3hNOXz3Kl4iA",
+      "alias": "detour-cafe-dundas",
+      "name": "Detour Cafe",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a3kNsQhmPrZi6vWdpOS0gw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/detour-cafe-dundas?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 73,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 43.26653,
+        "longitude": -79.95534
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "41 King Street W",
+        "address2": "",
+        "address3": "",
+        "city": "Dundas",
+        "zip_code": "L9H 1T7",
+        "country": "CA",
+        "state": "ON",
+        "display_address": ["41 King Street W", "Dundas, ON L9H 1T7", "Canada"]
+      },
+      "phone": "+12892388360",
+      "display_phone": "+1 289-238-8360",
+      "distance": 8126.807121686571
+    },
+    {
+      "id": "JXDUlAjWjy4XCO8Kos_eXg",
+      "alias": "ds-cafe-bubble-tea-hamilton",
+      "name": "D's Cafe Bubble Tea",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ngLm-0MwbqzwDMXjKZqyBA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ds-cafe-bubble-tea-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 13,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 43.26193,
+        "longitude": -79.87164
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "94 Cannon Street W",
+        "address2": "Unit 2",
+        "address3": "",
+        "city": "Hamilton",
+        "zip_code": "L8R 2B6",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "94 Cannon Street W",
+          "Unit 2",
+          "Hamilton, ON L8R 2B6",
+          "Canada"
+        ]
+      },
+      "phone": "+19055404107",
+      "display_phone": "+1 905-540-4107",
+      "distance": 2648.4023100394265
+    },
+    {
+      "id": "5CUh4MFObAkGOoMsRHhcBQ",
+      "alias": "my-dogs-cafe-and-bar-hamilton",
+      "name": "My Dog's Cafe & Bar",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lk_F8RsaHq5znkcVrVlKOA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/my-dogs-cafe-and-bar-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": 43.25383,
+        "longitude": -79.88605
+      },
+      "transactions": [],
+      "location": {
+        "address1": "229 Locke Street S",
+        "address2": "",
+        "address3": null,
+        "city": "Hamilton",
+        "zip_code": "L8P",
+        "country": "CA",
+        "state": "ON",
+        "display_address": ["229 Locke Street S", "Hamilton, ON L8P", "Canada"]
+      },
+      "phone": "+19055700770",
+      "display_phone": "+1 905-570-0770",
+      "distance": 2519.7908309449795
+    },
+    {
+      "id": "-KiPZMtLpNzGpFRUr9i4zQ",
+      "alias": "munchies-coffee-house-and-barkery-hamilton",
+      "name": "Munchies Coffee House & BARKery",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gBuWMoAnDUeOUO3V4X7PxQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/munchies-coffee-house-and-barkery-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 14,
+      "categories": [
+        {
+          "alias": "bakeries",
+          "title": "Bakeries"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 43.2137489,
+        "longitude": -79.8454895
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "1000 Upper Gage Avenue",
+        "address2": "Unit 4",
+        "address3": "",
+        "city": "Hamilton",
+        "zip_code": "L8V 4R5",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "1000 Upper Gage Avenue",
+          "Unit 4",
+          "Hamilton, ON L8V 4R5",
+          "Canada"
+        ]
+      },
+      "phone": "+19053896067",
+      "display_phone": "+1 905-389-6067",
+      "distance": 3124.6223580529822
+    },
+    {
+      "id": "RRnbO5NZq716CC8emwWedg",
+      "alias": "mulberry-coffeehouse-hamilton-2",
+      "name": "Mulberry Coffeehouse",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MlTUR16niJX1HHEmrZrAvg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mulberry-coffeehouse-hamilton-2?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 61,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "musicvenues",
+          "title": "Music Venues"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 43.26183,
+        "longitude": -79.86699
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "193 James Street N",
+        "address2": "",
+        "address3": "",
+        "city": "Hamilton",
+        "zip_code": "L8R 2L2",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "193 James Street N",
+          "Hamilton, ON L8R 2L2",
+          "Canada"
+        ]
+      },
+      "phone": "+19059631365",
+      "display_phone": "+1 905-963-1365",
+      "distance": 2544.009263816861
+    },
+    {
+      "id": "wZr3xBFhGfYMY-mqwsQuNQ",
+      "alias": "redchurch-cafe-gallery-hamilton",
+      "name": "Redchurch Cafe + Gallery",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mGDa0VCJUammRYVi3vkj8A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/redchurch-cafe-gallery-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 16,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 43.25551,
+        "longitude": -79.86725
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "68 King Street E",
+        "address2": "",
+        "address3": null,
+        "city": "Hamilton",
+        "zip_code": "L8N 1A6",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "68 King Street E",
+          "Hamilton, ON L8N 1A6",
+          "Canada"
+        ]
+      },
+      "phone": "+19054070459",
+      "display_phone": "+1 905-407-0459",
+      "distance": 1863.6374477319425
+    },
+    {
+      "id": "DeIdmVqOmcLl3zEmwROiBw",
+      "alias": "cafe-oranje-hamilton",
+      "name": "Cafe Oranje",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/buTHPwanhaiTmZjJTP32xg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/cafe-oranje-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 22,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 43.2537566,
+        "longitude": -79.8600414
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "312 King Street E",
+        "address2": "",
+        "address3": "",
+        "city": "Hamilton",
+        "zip_code": "L8N 1C2",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "312 King Street E",
+          "Hamilton, ON L8N 1C2",
+          "Canada"
+        ]
+      },
+      "phone": "+19055210551",
+      "display_phone": "+1 905-521-0551",
+      "distance": 1634.5926755921143
+    },
+    {
+      "id": "iIpLGj-seyOgfOEtJMZlhQ",
+      "alias": "williams-fresh-cafe-hamilton",
+      "name": "Williams Fresh Cafe",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i_El_0rTMUgBD1jxqfcJJw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/williams-fresh-cafe-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 20,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": 43.2764873,
+        "longitude": -79.860838
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "47 Discovery Drive",
+        "address2": "",
+        "address3": "",
+        "city": "Hamilton",
+        "zip_code": "L8L 8K4",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "47 Discovery Drive",
+          "Hamilton, ON L8L 8K4",
+          "Canada"
+        ]
+      },
+      "phone": "+19055225886",
+      "display_phone": "+1 905-522-5886",
+      "distance": 4153.094070769384
+    },
+    {
+      "id": "zc6ezehTMoWo3lvlxhXbtA",
+      "alias": "copper-kettle-cafe-waterdown-2",
+      "name": "Copper Kettle Cafe",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jTpi0oRoV3nDsrKhWm5lmw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/copper-kettle-cafe-waterdown-2?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 40,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 43.3334395777172,
+        "longitude": -79.892609397238
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "312 Dundas Street E",
+        "address2": "Unit 4",
+        "address3": "",
+        "city": "Waterdown",
+        "zip_code": "L0R 2H0",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "312 Dundas Street E",
+          "Unit 4",
+          "Waterdown, ON L0R 2H0",
+          "Canada"
+        ]
+      },
+      "phone": "+19056903696",
+      "display_phone": "+1 905-690-3696",
+      "distance": 10766.057924862103
+    },
+    {
+      "id": "Xk8R2W4WAvIV9LRV_LYubg",
+      "alias": "tamp-coffee-co-burlington",
+      "name": "Tamp Coffee Co",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q46mfzebG4OQF8nhlB-LcA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tamp-coffee-co-burlington?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 55,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "bakeries",
+          "title": "Bakeries"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 43.326103,
+        "longitude": -79.795406
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "2049 Pine Street",
+        "address2": "Unit 65",
+        "address3": "",
+        "city": "Burlington",
+        "zip_code": "L7R 1E9",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "2049 Pine Street",
+          "Unit 65",
+          "Burlington, ON L7R 1E9",
+          "Canada"
+        ]
+      },
+      "phone": "+14169175745",
+      "display_phone": "+1 416-917-5745",
+      "distance": 11083.958596437711
+    },
+    {
+      "id": "m8QnrBd5UdEbrgnm5yO__Q",
+      "alias": "salty-espresso-hamilton",
+      "name": "Salty Espresso",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sskhWsDN9jGg6jxu2TqOtw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/salty-espresso-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 43.25133,
+        "longitude": -79.86812
+      },
+      "transactions": [],
+      "location": {
+        "address1": "175 John Street S",
+        "address2": "",
+        "address3": null,
+        "city": "Hamilton",
+        "zip_code": "L8N 2C5",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "175 John Street S",
+          "Hamilton, ON L8N 2C5",
+          "Canada"
+        ]
+      },
+      "phone": "+19055210222",
+      "display_phone": "+1 905-521-0222",
+      "distance": 1441.180128046527
+    },
+    {
+      "id": "ZnDcWEpGFTwMqmXhpCa6fQ",
+      "alias": "williams-fresh-cafe-hamilton-8",
+      "name": "Williams Fresh Cafe",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kv7piJ1C_MyS5g8UZqhNfg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/williams-fresh-cafe-hamilton-8?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 14,
+      "categories": [
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": 43.25738,
+        "longitude": -79.9180499
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "1309 Main Street W",
+        "address2": "Unit A-2",
+        "address3": "",
+        "city": "Hamilton",
+        "zip_code": "L8S 1C5",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "1309 Main Street W",
+          "Unit A-2",
+          "Hamilton, ON L8S 1C5",
+          "Canada"
+        ]
+      },
+      "phone": "+19055222636",
+      "display_phone": "+1 905-522-2636",
+      "distance": 4928.812582324265
+    },
+    {
+      "id": "aJVyBzsj-6hRmRxfGxnwQg",
+      "alias": "emerald-coffee-hamilton",
+      "name": "Emerald Coffee",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3a0XVjXLrHTaAfjX4tktog/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/emerald-coffee-hamilton?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": 43.26029,
+        "longitude": -79.85115
+      },
+      "transactions": [],
+      "location": {
+        "address1": "340 Barton Street East",
+        "address2": null,
+        "address3": "",
+        "city": "Hamilton",
+        "zip_code": "L8L 2X7",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "340 Barton Street East",
+          "Hamilton, ON L8L 2X7",
+          "Canada"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 2526.1474850882673
+    },
+    {
+      "id": "IxYAte-EyrwF7Yfjuh9DGw",
+      "alias": "pane-fresco-burlington",
+      "name": "Pane Fresco",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EbFBD_r97Y7kciJ1nIp7OA/o.jpg",
+      "is_closed": true,
+      "url": "https://www.yelp.com/biz/pane-fresco-burlington?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 9,
+      "categories": [
+        {
+          "alias": "bakeries",
+          "title": "Bakeries"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": 43.32405,
+        "longitude": -79.79822
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "414 Locust Street",
+        "address2": "",
+        "address3": "",
+        "city": "Burlington",
+        "zip_code": "L7S 2J1",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "414 Locust Street",
+          "Burlington, ON L7S 2J1",
+          "Canada"
+        ]
+      },
+      "phone": "+19053333388",
+      "display_phone": "+1 905-333-3388",
+      "distance": 10781.889747047871
+    },
+    {
+      "id": "lKtXWAFgpNTCIET_IqKL3w",
+      "alias": "relay-coffee-roasters-hamilton-3",
+      "name": "Relay Coffee Roasters",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7vKXGHGwbvNr2W_UuNpMQA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/relay-coffee-roasters-hamilton-3?adjust_creative=lvc2goG0bF5E1vW3XHTcZw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=lvc2goG0bF5E1vW3XHTcZw",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "coffeeroasteries",
+          "title": "Coffee Roasteries"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 43.257503,
+        "longitude": -79.867776
+      },
+      "transactions": [],
+      "location": {
+        "address1": "27 King William Street",
+        "address2": "",
+        "address3": null,
+        "city": "Hamilton",
+        "zip_code": "L8R 1A1",
+        "country": "CA",
+        "state": "ON",
+        "display_address": [
+          "27 King William Street",
+          "Hamilton, ON L8R 1A1",
+          "Canada"
+        ]
+      },
+      "phone": "+19057693213",
+      "display_phone": "+1 905-769-3213",
+      "distance": 2086.8209077633737
+    }
+  ]
+}
